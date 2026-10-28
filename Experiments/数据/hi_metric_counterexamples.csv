@@ -1,0 +1,4 @@
+example,monotonicity,pos_monotonicity,trendability,inter_trendability_min,time_corr_mean,prognosability
+constant,0.0,0.0,0.0,0.0,0.0,0.0
+increasing,1.0,1.0,1.0,1.0,1.0,1.0
+decreasing,1.0,0.0,1.0,1.0,1.0,1.0

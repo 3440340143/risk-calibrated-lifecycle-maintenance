@@ -1,0 +1,10 @@
+{
+  "exact_frontier_vs_brute_force_cases": 72,
+  "max_objective_difference": 0.0,
+  "FD001_prefix_future_perturbation_max_feature_error": 0.0,
+  "FD002_prefix_future_perturbation_max_feature_error": 0.0,
+  "FD003_prefix_future_perturbation_max_feature_error": 0.0,
+  "FD004_prefix_future_perturbation_max_feature_error": 0.0,
+  "unit_score_vs_direct_binary_crc_max_difference": 0.0,
+  "all_constrained_tune_costs_no_higher_than_max_floor": true
+}

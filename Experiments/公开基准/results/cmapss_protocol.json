@@ -1,0 +1,54 @@
+{
+  "datasets": [
+    "FD001",
+    "FD002",
+    "FD003",
+    "FD004"
+  ],
+  "primary_seed": 20261023,
+  "sensitivity_seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "split_fractions_fit_tune_cal_test": [
+    0.3,
+    0.1,
+    0.2,
+    0.4
+  ],
+  "selected_original_sensor_numbers": [
+    2,
+    3,
+    4,
+    7,
+    8,
+    9,
+    11,
+    12,
+    13,
+    14,
+    15,
+    17,
+    20,
+    21
+  ],
+  "lead_time": 15.0,
+  "epsilon": 0.05,
+  "rho": 10.0,
+  "waste_cost": 0.045,
+  "rul_cap": 125.0,
+  "regularization": 14.0,
+  "bootstrap_replicates": 4000,
+  "bootstrap_seed": 471902,
+  "margin_search": "All strict prefix-record crossing values, no fixed upper limit; exact empirical lifecycle ratio",
+  "primary_estimand": "Pooled lifecycle ratio and paired difference on one untouched primary holdout; conditional stratified unit bootstrap",
+  "repeat_interpretation": "Five additional split seeds are descriptive robustness checks; do not pool overlapping units as independent trials",
+  "tuning_labels": "Tune-only ERM vs pure Cal-only CP vs Tune+Cal floor; equal-budget ERM gets Tune+Cal labels",
+  "archive_url": "https://phm-datasets.s3.amazonaws.com/NASA/6.+Turbofan+Engine+Degradation+Simulation+Data+Set.zip",
+  "official_source": "https://www.nasa.gov/intelligent-systems-division/discovery-and-systems-health/pcoe/pcoe-data-set-repository/",
+  "official_catalog": "https://data.nasa.gov/dataset/cmapss-jet-engine-simulated-data",
+  "core_sha256": "1392a8f83cc277d96d2fddfb436883b987385454acea60b357f6d87d61790300"
+}

@@ -1,0 +1,3 @@
+comparison,grouping,n,mean_difference,ci_low,ci_high,p_t,p_wilcoxon
+exchangeable tune+CP minus tune-only,20 scenario-seed,20,-0.012201559001149487,-0.039903554522324,0.015500436520025022,0.3681454162640604,0.916511907863894
+exchangeable tune+CP minus tune-only,5 seed blocks,5,-0.012201559001149487,-0.05161931262535631,0.02721619462305733,0.4385576267177511,1.0

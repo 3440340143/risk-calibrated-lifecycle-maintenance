@@ -1,0 +1,9 @@
+{
+  "scenario": "S-FD004",
+  "seed": 33,
+  "unit_id": 153,
+  "T_u": 195,
+  "tau_static": 168,
+  "margin_static": 1.3285837141207684,
+  "generation": "Unchanged verified model, Python PAVA fallback; only representative trajectory regenerated."
+}

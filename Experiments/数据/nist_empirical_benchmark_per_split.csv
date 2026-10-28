@@ -1,0 +1,726 @@
+benchmark,split,policy,margin,j_life_rate,fail_pct,waste_cycles
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,1,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",5.372244868909512,1.1513157894736843,0.0,16.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,1,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.48817664488767404,2.467935871743487,33.333333333333336,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,1,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",2.0500000000000003,2.7136929460580914,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,1,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.0500000000000003,2.7136929460580914,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,1,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,52.76666666666666,0.0,153.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,2,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.8858255426774757,0.7390243902439024,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,2,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.0701033962271959,0.3652321630804076,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,2,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.3652321630804076,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,2,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.3652321630804076,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,2,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,90.96666666666665,0.0,281.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,3,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.4091196789745228,0.47516401124648544,0.0,15.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,3,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.13787333072859925,0.29106498194945846,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,3,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.29539295392953935,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,3,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.15000000000000002,0.29539295392953935,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,3,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,113.46666666666664,0.0,356.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,4,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.6813915554047432,1.1759082217973231,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,4,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.02998408852146939,2.045685279187817,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,4,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.5830479452054794,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,4,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.15000000000000002,0.5830479452054794,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,4,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,61.466666666666654,0.0,182.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,5,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.43935898610709,1.1676300578034682,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,5,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.2386613582217336,0.5979202772963604,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,5,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,2.066666666666667,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,5,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2386613582217336,0.5979202772963604,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,5,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,60.86666666666666,0.0,180.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,6,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.749967493514196,1.6378830083565457,0.0,21.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,6,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.05017851793555284,2.8717339667458432,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,6,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.7589498806682577,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,6,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.7589498806682577,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,6,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,44.46666666666666,0.0,126.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,7,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.19604571118928768,1.1188235294117648,0.0,13.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,7,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.024128972690961394,0.7139737991266377,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,7,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.7715231788079471,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,7,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.7715231788079471,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,7,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,48.56666666666667,0.0,139.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,8,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7710385412328089,0.6506276150627613,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,8,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.173937772295139,0.8991228070175439,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,8,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,1.6485943775100402,33.333333333333336,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,8,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.173937772295139,0.8991228070175439,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,8,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,77.56666666666666,0.0,236.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,9,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.8971950288539633,1.2985074626865674,0.0,10.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,9,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.2386613582217336,0.9411764705882355,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,9,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,5.781593406593407,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,9,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2386613582217336,0.9411764705882355,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,9,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,38.666666666666664,0.0,106.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,10,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.6584997208218714,1.2313432835820894,0.0,8.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,10,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.4965600029335397,1.634185303514377,0.0,15.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,10,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.9,1.3536585365853657,0.0,10.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,10,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.4965600029335397,1.634185303514377,0.0,15.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,10,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,38.166666666666664,0.0,105.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,11,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.2547653979193317,1.0516129032258064,0.0,14.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,11,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.024927161609933277,0.6322067594433399,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,11,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.6837349397590361,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,11,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.6837349397590361,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,11,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,52.86666666666667,0.0,154.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,12,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.2850940959112294,1.194915254237288,0.0,14.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,12,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.8038208087092472,1.7553191489361701,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,12,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.857630979498861,0.0,5.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,12,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.8038208087092472,1.7553191489361701,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,12,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,47.766666666666666,0.0,137.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,13,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.9842765558942048,0.6992125984251969,0.0,10.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,13,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.40335770468476334,0.5098634294385433,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,13,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.4796380090497738,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,13,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.40335770468476334,0.5098634294385433,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,13,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,68.86666666666666,0.0,207.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,14,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.8332410636698159,3.391644908616188,33.333333333333336,7.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,14,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.5045369060969507,1.2520325203252032,0.0,12.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,14,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,3.0374064837905235,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,14,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.5045369060969507,1.2520325203252032,0.0,12.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,14,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,42.666666666666664,0.0,120.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,15,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.46625320478442017,0.9583987441130298,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,15,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.024716137860179507,0.46005706134094143,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,15,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5028776978417266,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,15,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.5028776978417266,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,15,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,72.76666666666665,0.0,220.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,16,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",5.290517315497794,6.321428571428571,0.0,23.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,16,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.1998346012303727,4.96875,0.0,19.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,16,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.30000000000000004,2.086956521739131,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,16,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.1998346012303727,4.96875,0.0,19.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,16,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,19.066666666666666,0.0,41.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,17,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7503993707151254,0.970360824742268,0.0,5.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,17,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.8375577503469915,1.4957627118644068,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,17,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.7000000000000002,1.221024258760108,0.0,11.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,17,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.8375577503469915,1.4957627118644068,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,17,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,42.666666666666664,0.0,120.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,18,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.5396551925254919,0.5190886699507389,0.0,9.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,18,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.06839957591304802,0.375,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,18,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.4161640530759952,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,18,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,0.4161640530759952,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,18,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,86.06666666666666,0.0,264.6666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,19,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.16898201934950802,1.367378048780488,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,19,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.024128972690961394,0.9211267605633804,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,19,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.9985714285714286,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,19,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.9985714285714286,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,19,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,38.266666666666666,0.0,105.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,20,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.6069886981240527,1.6897590361445782,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,20,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.1449630250672014,1.8819875776397517,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,20,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.9221635883905013,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,20,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.1449630250672014,1.8819875776397517,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,20,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,41.166666666666664,0.0,115.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,21,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.3397994373690632,3.856466876971609,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,21,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.25978533650538843,3.830188679245283,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,21,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.7000000000000002,4.3595317725752505,33.333333333333336,7.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,21,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.7000000000000002,4.3595317725752505,33.333333333333336,7.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,21,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,34.36666666666667,0.0,92.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,22,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.9546862784099692,1.2594654788418709,0.0,19.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,22,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.07052651436789444,2.402970297029703,33.333333333333336,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,22,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,2.389328063241107,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,22,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.07052651436789444,2.402970297029703,33.333333333333336,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,22,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,52.96666666666667,0.0,154.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,23,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.0066781700109764,1.6544715447154472,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,23,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.050634835342938785,0.7448036951501154,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,23,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.7448036951501154,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,23,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.050634835342938785,0.7448036951501154,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,23,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,45.96666666666667,0.0,131.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,24,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.5859421390712913,7.612903225806452,33.333333333333336,16.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,24,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.16980192010289757,5.469026548672566,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,24,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,5.558035714285714,33.333333333333336,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,24,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,5.558035714285714,33.333333333333336,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,24,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,25.566666666666666,0.0,63.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,25,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.13335780907898667,0.8103015075376885,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,25,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.1768485669646391,0.8371212121212123,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,25,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,3.0149625935162097,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,25,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1768485669646391,0.8371212121212123,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,25,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,42.46666666666667,0.0,119.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,26,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.8517894170432903,0.8547249647390691,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,26,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.05017851793555284,1.56,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,26,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.4177461139896373,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,26,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.4177461139896373,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,26,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,79.86666666666666,0.0,244.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,27,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.0831193479221028,0.4922360248447205,0.0,13.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,27,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.133308487130487,0.32249999999999995,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,27,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.3273273273273274,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,27,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.15000000000000002,0.3273273273273274,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,27,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,102.66666666666667,0.0,320.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,28,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7267070862525943,0.4185739436619718,0.0,13.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,28,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.030440340771872604,1.030690537084399,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,28,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.2674914675767918,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,28,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.2674914675767918,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,28,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,119.66666666666664,0.0,376.6666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,29,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.1870947177705493,0.991166077738516,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,29,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.2386613582217336,0.5536585365853659,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,29,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.9437299035369775,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,29,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2386613582217336,0.5536585365853659,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,29,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,64.56666666666666,0.0,193.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,30,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.584187189333144,0.7986425339366516,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,30,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.4965600029335397,0.7747747747747747,0.0,16.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,30,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.9,0.658590308370044,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,30,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.4965600029335397,0.7747747747747747,0.0,16.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,30,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,73.56666666666666,0.0,223.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,31,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.19998251413308896,1.2222222222222223,0.0,12.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,31,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.02461350770141598,0.7885085574572127,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,31,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.8275862068965518,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,31,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.8275862068965518,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,31,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,43.56666666666667,0.0,123.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,32,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.2555002492773333,0.9304979253112032,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,32,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.8188629400005966,1.3820224719101124,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,32,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,2.4106090373280944,33.333333333333336,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,32,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.8188629400005966,1.3820224719101124,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,32,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,53.666666666666664,0.0,156.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,33,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.0814864317467485,0.752442996742671,0.0,12.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,33,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.48377552554795056,0.531201248049922,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,33,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.4845440494590417,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,33,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.48377552554795056,0.531201248049922,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,33,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,67.16666666666667,0.0,201.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,34,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.8332410636698159,3.4393139841688654,33.333333333333336,7.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,34,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.5045369060969507,1.293956043956044,0.0,12.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,34,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,3.079345088161209,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,34,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.5045369060969507,1.293956043956044,0.0,12.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,34,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,42.36666666666666,0.0,119.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,35,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.45233488798416077,1.1222426470588236,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,35,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.024399911927060022,0.5387149917627678,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,35,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.572139303482587,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,35,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.572139303482587,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,35,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,63.46666666666667,0.0,189.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,36,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",4.028583701965246,3.2196969696969697,0.0,25.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,36,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.2721590113518215,2.9560975609756097,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,36,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.30000000000000004,1.311787072243346,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,36,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.2721590113518215,2.9560975609756097,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,36,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,29.466666666666665,0.0,76.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,37,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.4262794868788358,0.7241379310344828,0.0,7.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,37,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.965277577426452,1.014367816091954,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,37,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",2.35,0.8404452690166976,0.0,11.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,37,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.965277577426452,1.014367816091954,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,37,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,59.46666666666667,0.0,176.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,38,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.17459420972326684,0.32994186046511625,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,38,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.0701033962271959,0.3020231213872832,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,38,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.3112934362934363,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,38,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.3112934362934363,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,38,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,106.26666666666665,0.0,332.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,39,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.17607635118537718,0.8776908023483367,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,39,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.023806014045023822,0.598330241187384,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,39,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.6364485981308411,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,39,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.6364485981308411,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,39,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,56.56666666666667,0.0,166.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,40,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.598143198920149,1.4225352112676057,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,40,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.1817453002862517,1.5795180722891566,0.0,26.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,40,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.7453222453222453,0.0,4.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,40,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.1817453002862517,1.5795180722891566,0.0,26.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,40,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,51.56666666666667,0.0,149.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,41,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.646931612408119,3.0,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,41,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.25978533650538843,2.6710526315789473,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,41,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.7000000000000002,3.0,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,41,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.7000000000000002,3.0,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,41,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,48.16666666666666,0.0,138.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,42,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.9181685004448321,1.1452513966480447,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,42,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.06839957591304802,0.527363184079602,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,42,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.5949579831932773,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,42,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,0.5949579831932773,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,42,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,62.86666666666667,0.0,187.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,43,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.2217204112328707,0.8675958188153309,0.0,14.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,43,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.023806014045023822,0.5343137254901962,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,43,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5757825370675453,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,43,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.5757825370675453,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,43,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,63.966666666666654,0.0,191.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,44,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.5878402779610588,2.0701107011070112,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,44,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.1817453002862517,2.348076923076923,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,44,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.0815047021943573,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,44,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.1817453002862517,2.348076923076923,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,44,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,35.06666666666667,0.0,94.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,45,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7615914101634748,0.8200389105058365,0.0,9.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,45,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.1768485669646391,0.6207865168539327,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,45,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,2.2430426716141003,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,45,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1768485669646391,0.6207865168539327,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,45,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,56.26666666666666,0.0,165.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,46,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.9306212185153893,1.636764705882353,0.0,19.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,46,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.05111747150659257,5.3143939393939394,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,46,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,5.3143939393939394,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,46,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05111747150659257,5.3143939393939394,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,46,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,41.86666666666667,0.0,117.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,47,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.6548650958289541,1.9673913043478262,0.0,18.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,47,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.04964871070961622,0.9923076923076921,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,47,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.9923076923076921,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,47,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.9923076923076921,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,47,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,35.166666666666664,0.0,95.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,48,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.0710281964974,1.7541720154043645,33.333333333333336,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,48,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.17271371899404736,1.5297029702970297,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,48,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.537174721189591,33.333333333333336,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,48,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,1.537174721189591,33.333333333333336,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,48,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,83.76666666666667,0.0,257.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,49,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.6006353580161586,0.9415274463007159,0.0,7.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,49,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.1768485669646391,0.7655889145496537,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,49,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,2.76027397260274,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,49,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1768485669646391,0.7655889145496537,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,49,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,46.166666666666664,0.0,131.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,50,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.804640476946094,1.985611510791367,0.0,18.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,50,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.5172409111155798,1.611864406779661,0.0,13.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,50,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.9,1.353896103896104,0.0,8.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,50,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.5172409111155798,1.611864406779661,0.0,13.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,50,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,35.56666666666667,0.0,96.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,51,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.066652436061976,0.5226993865030675,0.0,9.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,51,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.07102342741290628,2.4994061757719717,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,51,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,2.4994061757719717,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,51,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,2.4994061757719717,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,51,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,86.46666666666668,0.0,266.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,52,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.2763436024739519,0.6605890603085554,0.0,12.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,52,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.011575493879951087,1.6141522029372497,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,52,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.452220726783311,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,52,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.452220726783311,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,52,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,77.26666666666665,0.0,235.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,53,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",8.295246454935047,1.4406593406593406,0.0,26.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,53,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.4531730133259145,0.6387832699619771,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,53,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,2.2725563909774436,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,53,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.4531730133259145,0.6387832699619771,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,53,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,55.56666666666667,0.0,163.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,54,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.2102639652191178,2.336812144212524,33.333333333333336,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,54,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.5045369060969507,0.9386317907444668,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,54,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,2.3109640831758034,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,54,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.5045369060969507,0.9386317907444668,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,54,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,55.56666666666667,0.0,163.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,55,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.601470015286586,0.5701219512195121,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,55,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.07180527246639677,1.1625,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,55,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.3109932497589199,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,55,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.15000000000000002,0.3109932497589199,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,55,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,106.36666666666666,0.0,332.3333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,56,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",4.389299555364155,6.426136363636362,0.0,19.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,56,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.565145261001025,5.838709677419355,0.0,18.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,56,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,14.414383561643836,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,56,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.565145261001025,5.838709677419355,0.0,18.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,56,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,16.866666666666667,0.0,34.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,57,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",6.214275356651447,4.8655462184873945,0.0,20.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,57,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.1960067522839526,3.5760869565217397,0.0,14.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,57,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.9000000000000001,2.784313725490196,0.0,9.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,57,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.1960067522839526,3.5760869565217397,0.0,14.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,57,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,20.266666666666666,0.0,45.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,58,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.031843490686247235,2.582208588957055,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,58,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.0701033962271959,0.3916256157635468,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,58,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.3916256157635468,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,58,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.3916256157635468,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,58,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,83.76666666666665,0.0,257.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,59,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.14200095062671625,1.3322683706070289,0.0,8.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,59,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.011430007147902606,3.5875370919881306,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,59,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.015105740181269,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,59,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,1.015105740181269,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,59,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,36.06666666666667,0.0,98.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,60,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.733596497179191,1.7692307692307692,0.0,18.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,60,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3666627701879603,1.9554455445544554,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,60,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,3.30327868852459,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,60,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3666627701879603,1.9554455445544554,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,60,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,38.96666666666667,0.0,107.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,61,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",6.940311135196481,2.3827751196172247,0.0,14.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,61,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.3268166496077307,8.402390438247012,66.66666666666667,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,61,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",2.15,5.493589743589744,33.333333333333336,6.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,61,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.15,5.493589743589744,33.333333333333336,6.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,61,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,27.466666666666665,0.0,69.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,62,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.7373111294954589,1.124282982791587,0.0,21.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,62,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.0701033962271959,0.5454545454545454,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,62,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.5541237113402061,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,62,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.5541237113402061,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,62,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,60.86666666666667,0.0,180.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,63,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.10521980305375768,0.5829596412556054,0.0,6.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,63,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.01026798363512835,3.0588662790697674,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,63,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5007352941176471,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,63,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.5007352941176471,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,63,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,71.06666666666666,0.0,214.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,64,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.6851905623047898,3.237704918032787,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,64,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3403750274737853,3.7325581395348837,0.0,25.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,64,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.5,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,64,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3403750274737853,3.7325581395348837,0.0,25.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,64,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,26.966666666666665,0.0,67.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,65,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.893961763629131,2.2026022304832713,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,65,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.16777665839714395,3.7158054711246202,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,65,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,6.31981981981982,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,65,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.16777665839714395,3.7158054711246202,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,65,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,35.56666666666667,0.0,96.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,66,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.7798957851878046,2.834928229665072,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,66,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.049575870920822204,4.444852941176471,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,66,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.3068181818181819,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,66,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,1.3068181818181819,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,66,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,29.566666666666666,0.0,76.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,67,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.16937653945907627,1.2131147540983604,0.0,10.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,67,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.011430007147902606,3.053030303030303,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,67,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.8891752577319587,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,67,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.8891752577319587,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,67,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,41.96666666666666,0.0,117.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,68,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.9607430730090636,0.6921397379912664,0.0,13.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,68,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3403750274737853,0.8963691376701967,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,68,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.4748953974895397,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,68,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3403750274737853,0.8963691376701967,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,68,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,74.76666666666665,0.0,227.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,69,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.3104238638438055,3.5364238410596025,0.0,17.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,69,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.16382347552795434,6.1206030150753765,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,69,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,10.418316831683168,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,69,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.16382347552795434,6.1206030150753765,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,69,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,22.466666666666665,0.0,52.666666666666664
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,70,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.0659792658924145,2.722543352601156,0.0,12.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,70,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.4465480900094136,3.0727272727272728,0.0,15.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,70,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.9,2.519662921348315,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,70,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.4465480900094136,3.0727272727272728,0.0,15.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,70,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,23.266666666666666,0.0,55.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,71,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.4074154452742287,3.1521739130434785,0.0,10.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,71,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.02252236549663528,17.857142857142858,100.0,0.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,71,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,7.283132530120482,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,71,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,7.283132530120482,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,71,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,18.966666666666665,0.0,41.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,72,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.41744925721059806,3.8258426966292136,33.333333333333336,12.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,72,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.06731775497594945,3.21875,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,72,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,3.279527559055118,33.333333333333336,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,72,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,3.279527559055118,33.333333333333336,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,72,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,41.366666666666674,0.0,115.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,73,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.3466288709404437,1.5876623376623378,0.0,14.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,73,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.26415000582863984,3.520231213872832,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,73,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,3.4741379310344827,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,73,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.26415000582863984,3.520231213872832,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,73,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,37.16666666666667,0.0,101.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,74,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.1242414244863355,3.022727272727273,0.0,7.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,74,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",1.525610616768136,3.380952380952381,0.0,9.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,74,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,13.875,66.66666666666667,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,74,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.525610616768136,3.380952380952381,0.0,9.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,74,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,17.566666666666666,0.0,36.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,75,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.9509263149365903,1.8155339805825244,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,75,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.025302485341082016,5.75,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,75,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,3.333791208791209,33.333333333333336,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,75,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,3.333791208791209,33.333333333333336,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,75,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,38.86666666666666,0.0,107.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,76,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",3.761181128932651,1.44151376146789,0.0,24.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,76,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.06553540301960706,2.3846153846153846,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,76,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,4.142716535433071,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,76,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.06553540301960706,2.3846153846153846,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,76,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,53.06666666666667,0.0,154.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,77,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",10.290033986016756,2.5894160583941606,0.0,30.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,77,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.0234043280093403,1.6471518987341771,0.0,16.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,77,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.8,1.3509036144578315,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,77,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.0234043280093403,1.6471518987341771,0.0,16.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,77,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,38.666666666666664,0.0,106.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,78,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.029699500875089026,1.030690537084399,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,78,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.05040005015752388,0.27156276686592656,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,78,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.27156276686592656,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,78,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05040005015752388,0.27156276686592656,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,78,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,119.66666666666664,0.0,376.6666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,79,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7749678439804737,0.5047904191616767,0.0,9.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,79,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.133308487130487,0.37631271878646433,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,79,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.3820093457943926,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,79,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.15000000000000002,0.3820093457943926,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,79,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,88.36666666666666,0.0,272.3333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,80,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.8359826221788713,0.9483282674772037,0.0,24.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,80,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.032363293589346094,1.6607142857142858,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,80,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.4312242090784044,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,80,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.4312242090784044,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,80,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,75.16666666666666,0.0,228.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,81,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",6.505919752506635,4.89908256880734,0.0,17.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,81,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.432200232101104,7.916129032258064,33.333333333333336,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,81,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.8,9.345323741007194,33.333333333333336,7.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,81,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.8,9.345323741007194,33.333333333333336,7.333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,81,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,18.266666666666666,0.0,38.666666666666664
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,82,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.2032010049859225,1.1307251908396947,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,82,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.05040005015752388,0.5522260273972601,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,82,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5522260273972601,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,82,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05040005015752388,0.5522260273972601,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,82,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,61.066666666666656,0.0,181.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,83,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.04387731785229221,0.6073943661971831,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,83,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.023806014045023822,0.5716783216783218,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,83,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.6164021164021164,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,83,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.6164021164021164,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,83,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,59.96666666666667,0.0,177.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,84,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.7139311746129324,2.9526315789473685,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,84,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3666627701879603,3.455056179775281,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,84,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,4.914634146341464,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,84,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3666627701879603,3.455056179775281,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,84,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,26.966666666666672,0.0,67.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,85,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",3.239359676349058,3.8674698795180724,0.0,25.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,85,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.21613463132560784,1.46137339055794,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,85,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.4358974358974361,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,85,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.21613463132560784,1.46137339055794,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,85,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,26.36666666666666,0.0,65.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,86,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.1796458485433357,1.3818615751789973,0.0,20.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,86,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.03607528246685679,2.5240083507306887,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,86,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,2.5240083507306887,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,86,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,2.5240083507306887,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,86,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,50.26666666666666,0.0,145.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,87,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.17657638934521008,0.8563327032136105,0.0,11.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,87,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.023806014045023822,0.5779569892473118,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,87,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.6331521739130435,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,87,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.6331521739130435,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,87,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,58.46666666666667,0.0,172.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,88,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7872903318983758,0.6566347469220246,0.0,13.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,88,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3403750274737853,0.9551374819102749,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,88,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.466403162055336,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,88,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3403750274737853,0.9551374819102749,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,88,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,79.26666666666667,0.0,242.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,89,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.3228951793380306,2.357142857142857,0.0,19.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,89,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.1647077696527867,1.147058823529412,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,89,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.166666666666667,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,89,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,1.166666666666667,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,89,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,31.766666666666673,0.0,83.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,90,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.01779312938808651,7.177033492822966,100.0,0.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,90,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.8988912179323933,1.3787061994609164,0.0,15.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,90,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.55,1.1649350649350652,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,90,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.8988912179323933,1.3787061994609164,0.0,15.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,90,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,43.96666666666667,0.0,124.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,91,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.1723753550526406,1.4899328859060406,0.0,10.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,91,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.02461350770141598,0.9923076923076923,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,91,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.078125,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,91,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,1.078125,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,91,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,35.166666666666664,0.0,95.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,92,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.3929035378162495,1.2968750000000002,0.0,14.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,92,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.8503678596004356,1.700557103064067,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,92,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.8768115942028987,0.0,4.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,92,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.8503678596004356,1.700557103064067,0.0,23.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,92,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,44.96666666666667,0.0,127.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,93,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",3.597125933385455,1.6848137535816619,0.0,21.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,93,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.2550586849196346,0.8034398034398036,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,93,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.30000000000000004,0.8428217821782178,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,93,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.30000000000000004,0.8428217821782178,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,93,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,43.46666666666666,0.0,122.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,94,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.44431044939219083,5.420168067226891,33.333333333333336,6.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,94,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.8869122566811422,2.1108597285067874,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,94,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,4.944,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,94,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.8869122566811422,2.1108597285067874,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,94,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,27.966666666666665,0.0,71.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,95,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.4307559098637385,1.2769396551724137,0.0,21.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,95,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.024399911927060022,0.6252390057361378,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,95,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.6847195357833655,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,95,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.6847195357833655,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,95,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,55.06666666666667,0.0,161.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,96,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",5.45958219729377,5.7631578947368425,0.0,18.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,96,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.27854581387948096,8.520833333333334,33.333333333333336,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,96,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.30000000000000004,8.520833333333334,33.333333333333336,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,96,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.30000000000000004,8.520833333333334,33.333333333333336,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,96,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,17.166666666666668,0.0,35.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,97,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.2554480677115016,3.6350364963503647,0.0,14.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,97,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.4509313276558142,3.8171641791044775,0.0,15.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,97,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.5,2.979865771812081,0.0,10.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,97,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.4509313276558142,3.8171641791044775,0.0,15.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,97,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,20.266666666666666,0.0,45.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,98,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.09434633390845855,1.5398230088495575,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,98,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.05052286840503301,1.5245901639344261,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,98,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.5245901639344261,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,98,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05052286840503301,1.5245901639344261,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,98,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,81.66666666666667,0.0,250.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,99,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.3228746620153711,2.7246835443037973,0.0,9.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,99,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.04964871070961622,1.7719780219780217,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,99,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.7719780219780217,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,99,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,1.7719780219780217,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,99,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,20.866666666666667,0.0,47.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,100,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.7482763852505245,4.38390092879257,33.333333333333336,16.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,100,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.18527133977681035,3.4049586776859506,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,100,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,3.4049586776859506,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,100,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,3.4049586776859506,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,100,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,39.26666666666667,0.0,108.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,101,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",14.002050289879845,2.3355704697986575,0.0,29.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,101,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.432200232101104,3.2698412698412698,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,101,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.8,3.613259668508287,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,101,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.8,3.613259668508287,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,101,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,40.766666666666666,0.0,113.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,102,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.1855472608926516,0.6186528497409326,0.0,22.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,102,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.08695633621261242,0.3190243902439025,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,102,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.3190243902439025,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,102,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.3190243902439025,0.0,2.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,102,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,105.26666666666667,0.0,328.6666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,103,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.28716601423100396,0.2841091492776886,0.0,4.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,103,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.06219137328208639,0.249800796812749,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,103,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.15000000000000002,0.26498800959232616,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,103,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.15000000000000002,0.26498800959232616,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,103,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,127.96666666666664,0.0,404.3333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,104,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.8734263879763386,1.0469798657718121,0.0,24.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,104,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.032363293589346094,1.8153153153153154,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,104,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.4714285714285714,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,104,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.4714285714285714,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,104,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,68.96666666666665,0.0,207.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,105,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",7.002143341047203,2.4811046511627906,0.0,41.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,105,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.21613463132560784,0.7664473684210527,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,105,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.7434497816593887,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,105,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.21613463132560784,0.7664473684210527,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,105,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,48.86666666666667,0.0,140.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,106,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.0089199952040464,1.1488095238095235,0.0,20.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,106,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.06224149343797158,2.143617021276596,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,106,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.5748663101604278,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,106,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.1,0.5748663101604278,0.0,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,106,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,58.766666666666666,0.0,173.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,107,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.17118064162777105,0.7786458333333335,0.0,11.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,107,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.011794597216270686,0.5173267326732673,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,107,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5759599332220368,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,107,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.5759599332220368,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,107,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,63.06666666666667,0.0,188.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,108,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.210209466210956,0.7893700787401575,0.0,22.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,108,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3666627701879603,0.8102766798418972,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,108,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.4619105199516325,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,108,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3666627701879603,0.8102766798418972,0.0,23.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,108,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,85.06666666666666,0.0,261.3333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,109,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",3.2761472144179846,3.75,0.0,25.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,109,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.21613463132560784,1.4427966101694916,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,109,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.392857142857143,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,109,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.21613463132560784,1.4427966101694916,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,109,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,26.666666666666668,0.0,66.66666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,110,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.032531098056847264,2.413173652694611,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,110,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.1268680016520705,1.134065934065934,0.0,16.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,110,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.9000000000000001,0.9658848614072495,0.0,11.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,110,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.1268680016520705,1.134065934065934,0.0,16.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,110,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,52.46666666666667,0.0,152.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,111,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.18396634154867256,0.707729468599034,0.0,10.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,111,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.011942029572675227,3.2327188940092166,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,111,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5217391304347827,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,111,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.5217391304347827,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,111,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,67.36666666666666,0.0,202.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,112,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.7941524735698458,1.4240088105726871,0.0,25.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,112,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.8503678596004356,1.4634146341463414,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,112,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.1,0.7324902723735408,0.0,5.666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,112,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.8503678596004356,1.4634146341463414,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,112,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,55.26666666666666,0.0,162.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,113,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",6.452935452264386,1.4132762312633833,0.0,26.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,113,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.3438116061376777,0.6233766233766235,0.0,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,113,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.4,0.6328996282527881,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,113,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.4,0.6328996282527881,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,113,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,56.86666666666667,0.0,167.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,114,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.060379861192415736,3.8473491773308957,66.66666666666667,0.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,114,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.0503305957062015,0.9129158512720157,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,114,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.30000000000000004,2.251381215469613,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,114,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.0503305957062015,0.9129158512720157,0.0,12.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,114,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,56.96666666666667,0.0,167.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,115,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.44215231133470806,0.7605095541401274,0.0,22.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,115,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.012327297738144269,0.3696933962264151,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,115,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.4102259215219976,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,115,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.4102259215219976,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,115,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,87.26666666666668,0.0,268.6666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,116,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",6.772848441283157,3.8214285714285716,0.0,25.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,116,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",3.518632010737443,2.9759358288770055,0.0,19.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,116,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.30000000000000004,1.3987341772151896,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,116,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",3.518632010737443,2.9759358288770055,0.0,19.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,116,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,26.566666666666663,0.0,66.33333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,117,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",5.915615825697774,3.3731343283582085,0.0,28.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,117,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.4509313276558142,2.2628205128205128,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,117,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.5,1.83,0.0,11.666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,117,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.4509313276558142,2.2628205128205128,0.0,17.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,117,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,30.666666666666668,0.0,80.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,118,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.1577581340919354,0.3400000000000001,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,118,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.08448016068418558,0.32515337423312884,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,118,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.25,0.35993820803295573,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,118,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.25,0.35993820803295573,0.0,3.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,118,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,100.36666666666666,0.0,312.3333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,119,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.13895231927399146,0.8799582463465553,0.0,9.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,119,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.011794597216270686,0.6232604373757455,0.0,1.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,119,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.6955645161290323,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,119,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.6955645161290323,0.0,3.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,119,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,52.766666666666666,0.0,153.66666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,120,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.8024688291441517,1.3928571428571428,0.0,19.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,120,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",2.3403750274737853,1.526448362720403,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,120,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,0.7467105263157894,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,120,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",2.3403750274737853,1.526448362720403,0.0,22.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,120,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,48.666666666666664,0.0,140.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,121,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",4.485967521130085,3.4539473684210527,0.0,16.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,121,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.22438874402778342,6.2055837563451774,33.333333333333336,1.6666666666666667
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,121,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",1.5,7.348314606741573,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,121,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",1.5,7.348314606741573,33.333333333333336,8.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,121,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,22.366666666666667,0.0,52.333333333333336
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,122,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.3053707721084002,0.9368686868686869,0.0,19.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,122,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.08800893586154537,1.8825347758887172,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,122,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,1.8628659476117104,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,122,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.08800893586154537,1.8825347758887172,33.333333333333336,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,122,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,67.26666666666665,0.0,202.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,123,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",0.26702420581804026,0.739247311827957,0.0,8.333333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,123,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.02426555153994707,2.080895008605852,33.333333333333336,0.6666666666666666
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,123,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.05,0.5492227979274611,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,123,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.05,0.5492227979274611,0.0,1.3333333333333333
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,123,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,60.46666666666667,0.0,179.33333333333334
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,124,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",1.7828037123164482,5.463461538461538,33.333333333333336,16.333333333333332
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,124,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.18527133977681035,4.106312292358804,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,124,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,4.106312292358804,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,124,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,4.106312292358804,33.333333333333336,2.6666666666666665
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,124,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,33.06666666666667,0.0,88.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,125,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",2.779802199845458,2.922169811320755,0.0,23.666666666666668
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,125,"Pure Unit-CP (Disjoint n_cal=6, k=6, alpha_eff=1/7)",0.16115828825265338,1.2010869565217392,0.0,2.3333333333333335
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,125,"Cost-Tuned Margin Only (ERM on Disjoint Tune, n_tune=3)",0.2,1.2427007299270072,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,125,"DC-PdM Static (Tune + Unit-CP k=6, alpha_eff=1/7)",0.2,1.2427007299270072,0.0,3.0
+NIST_APR423_SemiEmpirical_Disjoint_125Splits,125,"DC-PdM Backup (alpha=0.05, k=7>n_cal=6 -> tau=0)",,30.466666666666665,0.0,79.33333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,1,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",14.167472685274074,6.208092485549133,0.0,57.333333333333336
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,1,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.7907172594794266,1.2981220657276995,0.0,8.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,1,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.9500000000000001,1.3809523809523807,0.0,10.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,1,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.8,1.2981220657276995,0.0,8.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,1,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.9500000000000001,1.3809523809523807,0.0,10.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,2,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",11.36364495336809,7.398713826366559,0.0,63.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,2,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.918100418736085,1.4878640776699028,0.0,11.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,2,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.8,1.4113418530351436,0.0,10.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,2,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.9500000000000001,1.536704730831974,0.0,12.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,2,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.918100418736085,1.4878640776699028,0.0,11.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,3,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",11.774114714525068,5.985037406483791,0.0,66.66666666666667
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,3,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.4114154617682925,1.3234072022160666,0.0,13.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,3,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.35000000000000003,1.2674897119341564,0.0,12.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,3,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.45,1.3558495821727021,0.0,13.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,3,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.4114154617682925,1.3234072022160666,0.0,13.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,4,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",12.235594603065907,5.605080831408775,0.0,67.66666666666667
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,4,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.844025698550211,1.3810483870967738,0.0,15.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,4,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.45,1.1096153846153844,0.0,9.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,4,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.8500000000000001,1.3969002695417787,0.0,16.166666666666668
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,4,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.844025698550211,1.3810483870967738,0.0,15.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,5,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",9.798025686038438,5.555844155844156,0.0,57.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,5,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.4598012731209012,1.5303738317757007,0.0,14.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,5,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.25,1.3043478260869563,0.0,10.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,5,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.5,1.5968503937007874,0.0,15.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,5,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.4598012731209012,1.5303738317757007,0.0,14.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,6,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",11.16669119598036,6.109649122807017,0.0,55.166666666666664
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,6,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.35295891672657315,2.688095238095238,16.666666666666668,7.166666666666667
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,6,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.25,2.5647425897035885,16.666666666666668,5.333333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,6,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.4,2.7340255591054308,16.666666666666668,7.833333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,6,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.35295891672657315,2.688095238095238,16.666666666666668,7.166666666666667
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,7,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",11.674738674351852,6.390718562874252,0.0,56.833333333333336
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,7,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.8642526178066362,1.4533551554828152,0.0,10.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,7,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.8500000000000001,1.4339314845024471,0.0,10.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,7,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.9,1.4729064039408868,0.0,11.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,7,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.8642526178066362,1.4533551554828152,0.0,10.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,8,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",12.225405436645351,5.653333333333333,0.0,72.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,8,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.69198889910505,1.2544080604534007,0.0,14.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,8,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.35000000000000003,1.0314769975786926,0.0,9.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,8,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.7000000000000001,1.2616645649432536,0.0,14.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,8,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.69198889910505,1.2544080604534007,0.0,14.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,9,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",12.873675642811591,6.899038461538462,0.0,57.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,9,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.3715776189311329,2.8057377049180325,16.666666666666668,7.833333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,9,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.45,1.3882450331125828,0.0,8.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,9,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.4,2.8177339901477834,16.666666666666668,8.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,9,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.45,1.3882450331125828,0.0,8.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,10,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",11.671247307890033,7.19607843137255,0.0,59.333333333333336
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,10,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.10409188076239963,5.25,50.0,3.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,10,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.05,5.204791344667698,50.0,2.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,10,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.15000000000000002,3.8915756630265212,33.333333333333336,3.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,10,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.10409188076239963,5.25,50.0,3.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,11,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",12.66222180244641,6.591867469879518,0.0,58.833333333333336
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,11,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",1.003623523778098,1.689075630252101,0.0,15.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,11,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.30000000000000004,2.506880733944954,16.666666666666668,5.166666666666667
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,11,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",1.05,1.720439189189189,0.0,15.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,11,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",1.003623523778098,1.689075630252101,0.0,15.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,12,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",13.413337769955769,5.457104557640751,0.0,53.166666666666664
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,12,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.6734366558761596,1.5686274509803917,0.0,13.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,12,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.8500000000000001,1.69,0.0,15.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,12,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.7000000000000001,1.5785597381342062,0.0,13.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,12,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.8500000000000001,1.69,0.0,15.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,13,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",10.665645617367765,7.544871794871794,0.0,43.166666666666664
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,13,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.3394540044019562,3.6725274725274724,16.666666666666668,6.333333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,13,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.1,5.162133891213389,33.333333333333336,2.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,13,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.35000000000000003,3.6725274725274724,16.666666666666668,6.333333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,13,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.3394540044019562,3.6725274725274724,16.666666666666668,6.333333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,14,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",9.62591949369394,5.189086294416244,0.0,53.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,14,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.5517392881759666,1.677184466019418,0.0,16.166666666666668
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,14,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.25,1.3912037037037035,0.0,11.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,14,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.6000000000000001,1.7174267100977203,0.0,16.833333333333332
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,14,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.5517392881759666,1.677184466019418,0.0,16.166666666666668
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,15,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",13.081885666761533,5.894613583138173,0.0,71.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,15,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.5235966990089556,1.2642857142857142,0.0,13.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,15,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.15000000000000002,0.9326805385556914,0.0,6.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,15,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.55,1.286831812255541,0.0,14.333333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,15,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.5235966990089556,1.2642857142857142,0.0,13.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,16,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",12.946273051768443,5.276923076923077,0.0,54.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,16,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",1.6571793113735138,1.6203852327447832,0.0,15.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,16,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.9500000000000001,1.3125,0.0,9.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,16,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.75,1.2252252252252251,0.0,8.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,16,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",1.6571793113735138,1.6203852327447832,0.0,15.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,17,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",14.277484558272956,8.105,0.0,67.83333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,17,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.9595973411878833,1.5504000000000002,0.0,13.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,17,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",1.1,1.6387987012987015,0.0,15.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,17,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",1.0,1.5698234349919744,0.0,14.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,17,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",1.1,1.6387987012987015,0.0,15.166666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,18,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",11.296250603054052,5.893890675241157,0.0,45.666666666666664
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,18,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",1.1454828407272701,1.9136904761904763,0.0,13.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,18,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.5,3.0136363636363637,16.666666666666668,5.833333333333333
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,18,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.4,2.9059139784946235,16.666666666666668,4.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,18,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",1.1454828407272701,1.9136904761904763,0.0,13.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,19,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",9.907851774399397,5.927835051546392,0.0,41.666666666666664
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,19,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.7751326921506934,2.2885906040268456,0.0,15.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,19,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",0.25,1.705521472392638,0.0,8.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,19,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.8,2.303811659192825,0.0,15.833333333333334
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,19,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",0.7751326921506934,2.2885906040268456,0.0,15.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,20,"Cycle-CP (Step-Level Residual CP, alpha=0.05)",14.607004304173824,4.397647058823529,0.0,47.0
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,20,"Pure Unit-CP (Run-2 Cal, n_cal=19, k=19, alpha=0.05)",0.8516523919773545,1.2732824427480915,0.0,8.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,20,"Cost-Tuned Margin Only (ERM on Disjoint Run-1 Tune, n=10)",1.0,1.3810264385692066,0.0,10.666666666666666
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,20,"Equal-Budget Run-2 ERM (Tuned on Run-2 Cal, n=19)",0.9,1.3176923076923077,0.0,9.5
+NIST_MPC61_SemiEmpirical_Run1_to_Run2_20Folds,20,"DC-PdM Static (Run-1 Tune + Run-2 Unit-CP Floor, alpha=0.05)",1.0,1.3810264385692066,0.0,10.666666666666666

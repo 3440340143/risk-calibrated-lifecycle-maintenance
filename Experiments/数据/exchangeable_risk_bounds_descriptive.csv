@@ -1,0 +1,5 @@
+policy,n_fail,n_units,fail_pct,iid_binomial_lower95_pct,iid_binomial_upper95_pct,inference_note
+Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),41,1000,4.1,3.1206861020981522,5.287111505401791,"Descriptive iid-binomial calculation, not exact pooled confidence under shared calibration/fleet dependence."
+"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",47,1000,4.7,3.6498469721978983,5.9545101427784655,"Descriptive iid-binomial calculation, not exact pooled confidence under shared calibration/fleet dependence."
+Exchangeable B7: Cost-Tuned Margin Only (Uncal.),19,1000,1.9,1.2476769355865618,2.7755286045479104,"Descriptive iid-binomial calculation, not exact pooled confidence under shared calibration/fleet dependence."
+"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",14,1000,1.4,0.8483235314784686,2.180013152550217,"Descriptive iid-binomial calculation, not exact pooled confidence under shared calibration/fleet dependence."

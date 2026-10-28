@@ -1,0 +1,1001 @@
+architecture,seed,unit_id,T_u,direct_unit_batch_replay_ms
+Unconstrained EMA + Ridge + Cycle-CP,11,131,180,2.360771999519784
+Unconstrained EMA + Ridge + Cycle-CP,11,132,240,2.637857000081567
+Unconstrained EMA + Ridge + Cycle-CP,11,133,231,2.5962069994420744
+Unconstrained EMA + Ridge + Cycle-CP,11,134,165,1.9269820004410576
+Unconstrained EMA + Ridge + Cycle-CP,11,135,238,2.0604860001185443
+Unconstrained EMA + Ridge + Cycle-CP,11,136,201,2.339344999199966
+Unconstrained EMA + Ridge + Cycle-CP,11,137,252,2.745421999861719
+Unconstrained EMA + Ridge + Cycle-CP,11,138,157,2.040170998952817
+Unconstrained EMA + Ridge + Cycle-CP,11,139,245,2.1355550015869085
+Unconstrained EMA + Ridge + Cycle-CP,11,140,227,2.0277759977034293
+Unconstrained EMA + Ridge + Cycle-CP,11,141,189,1.9107189982605632
+Unconstrained EMA + Ridge + Cycle-CP,11,142,174,1.7851280026661698
+Unconstrained EMA + Ridge + Cycle-CP,11,143,169,1.7395859977114014
+Unconstrained EMA + Ridge + Cycle-CP,11,144,157,1.8640109992702492
+Unconstrained EMA + Ridge + Cycle-CP,11,145,240,1.9891439987986814
+Unconstrained EMA + Ridge + Cycle-CP,11,146,227,1.8717519997153431
+Unconstrained EMA + Ridge + Cycle-CP,11,147,215,1.7634470023040194
+Unconstrained EMA + Ridge + Cycle-CP,11,148,157,1.7214750005223323
+Unconstrained EMA + Ridge + Cycle-CP,11,149,166,2.130092998413602
+Unconstrained EMA + Ridge + Cycle-CP,11,150,160,1.8844059995899443
+Unconstrained EMA + Ridge + Cycle-CP,11,151,201,1.868965002358891
+Unconstrained EMA + Ridge + Cycle-CP,11,152,162,1.805175001209136
+Unconstrained EMA + Ridge + Cycle-CP,11,153,205,1.8049210011668038
+Unconstrained EMA + Ridge + Cycle-CP,11,154,207,2.0740090003528167
+Unconstrained EMA + Ridge + Cycle-CP,11,155,159,1.8885270001192112
+Unconstrained EMA + Ridge + Cycle-CP,11,156,175,1.8173019998357631
+Unconstrained EMA + Ridge + Cycle-CP,11,157,228,1.8744520020845812
+Unconstrained EMA + Ridge + Cycle-CP,11,158,162,1.8135870013793465
+Unconstrained EMA + Ridge + Cycle-CP,11,159,194,2.0509969981503673
+Unconstrained EMA + Ridge + Cycle-CP,11,160,245,1.9904499968106393
+Unconstrained EMA + Ridge + Cycle-CP,11,161,241,2.853182999388082
+Unconstrained EMA + Ridge + Cycle-CP,11,162,230,1.9611620009527542
+Unconstrained EMA + Ridge + Cycle-CP,11,163,242,2.474167002219474
+Unconstrained EMA + Ridge + Cycle-CP,11,164,212,2.138127001671819
+Unconstrained EMA + Ridge + Cycle-CP,11,165,204,2.368739002122311
+Unconstrained EMA + Ridge + Cycle-CP,11,166,154,1.9680799996422138
+Unconstrained EMA + Ridge + Cycle-CP,11,167,216,2.025869001954561
+Unconstrained EMA + Ridge + Cycle-CP,11,168,181,1.8778429985104594
+Unconstrained EMA + Ridge + Cycle-CP,11,169,188,1.9769560021813959
+Unconstrained EMA + Ridge + Cycle-CP,11,170,192,2.1642749998136424
+Unconstrained EMA + Ridge + Cycle-CP,11,171,215,2.1169530009501614
+Unconstrained EMA + Ridge + Cycle-CP,11,172,158,2.032439999311464
+Unconstrained EMA + Ridge + Cycle-CP,11,173,234,1.8859709998650942
+Unconstrained EMA + Ridge + Cycle-CP,11,174,158,2.707483999984106
+Unconstrained EMA + Ridge + Cycle-CP,11,175,216,2.3668069989071228
+Unconstrained EMA + Ridge + Cycle-CP,11,176,158,2.598320999823045
+Unconstrained EMA + Ridge + Cycle-CP,11,177,239,3.042078998987563
+Unconstrained EMA + Ridge + Cycle-CP,11,178,227,3.113717000815086
+Unconstrained EMA + Ridge + Cycle-CP,11,179,161,4.067341000336455
+Unconstrained EMA + Ridge + Cycle-CP,11,180,236,3.8816789965494536
+Unconstrained EMA + Ridge + Cycle-CP,22,131,214,3.745769998204196
+Unconstrained EMA + Ridge + Cycle-CP,22,132,158,3.1013520019769203
+Unconstrained EMA + Ridge + Cycle-CP,22,133,253,3.1527900027867872
+Unconstrained EMA + Ridge + Cycle-CP,22,134,211,2.995209000800969
+Unconstrained EMA + Ridge + Cycle-CP,22,135,202,2.7558090005186386
+Unconstrained EMA + Ridge + Cycle-CP,22,136,245,2.2195969977474306
+Unconstrained EMA + Ridge + Cycle-CP,22,137,210,1.9931349997932557
+Unconstrained EMA + Ridge + Cycle-CP,22,138,246,1.9893200005753897
+Unconstrained EMA + Ridge + Cycle-CP,22,139,233,2.078923000226496
+Unconstrained EMA + Ridge + Cycle-CP,22,140,197,1.8920989969046786
+Unconstrained EMA + Ridge + Cycle-CP,22,141,248,2.043568998487899
+Unconstrained EMA + Ridge + Cycle-CP,22,142,218,2.0104899995203596
+Unconstrained EMA + Ridge + Cycle-CP,22,143,157,1.7715329995553475
+Unconstrained EMA + Ridge + Cycle-CP,22,144,195,1.9374719995539635
+Unconstrained EMA + Ridge + Cycle-CP,22,145,198,1.776278000761522
+Unconstrained EMA + Ridge + Cycle-CP,22,146,215,1.9577510029193945
+Unconstrained EMA + Ridge + Cycle-CP,22,147,216,1.8053740022878628
+Unconstrained EMA + Ridge + Cycle-CP,22,148,188,1.8155790021410212
+Unconstrained EMA + Ridge + Cycle-CP,22,149,196,1.8659440029296093
+Unconstrained EMA + Ridge + Cycle-CP,22,150,196,1.7972280002140906
+Unconstrained EMA + Ridge + Cycle-CP,22,151,235,2.399970002443297
+Unconstrained EMA + Ridge + Cycle-CP,22,152,237,2.997476996824844
+Unconstrained EMA + Ridge + Cycle-CP,22,153,209,2.147352999600116
+Unconstrained EMA + Ridge + Cycle-CP,22,154,207,1.9360330006747972
+Unconstrained EMA + Ridge + Cycle-CP,22,155,228,2.0997860010538716
+Unconstrained EMA + Ridge + Cycle-CP,22,156,192,1.9010719988727942
+Unconstrained EMA + Ridge + Cycle-CP,22,157,204,2.601626001705881
+Unconstrained EMA + Ridge + Cycle-CP,22,158,242,2.6129479992960114
+Unconstrained EMA + Ridge + Cycle-CP,22,159,177,2.2190319978108164
+Unconstrained EMA + Ridge + Cycle-CP,22,160,175,1.840756001911359
+Unconstrained EMA + Ridge + Cycle-CP,22,161,178,1.9464789984340314
+Unconstrained EMA + Ridge + Cycle-CP,22,162,216,2.165965001040604
+Unconstrained EMA + Ridge + Cycle-CP,22,163,222,2.187923000747105
+Unconstrained EMA + Ridge + Cycle-CP,22,164,193,1.872558001196012
+Unconstrained EMA + Ridge + Cycle-CP,22,165,203,1.8469440001354087
+Unconstrained EMA + Ridge + Cycle-CP,22,166,242,2.039380000496749
+Unconstrained EMA + Ridge + Cycle-CP,22,167,240,1.930663001985522
+Unconstrained EMA + Ridge + Cycle-CP,22,168,221,1.798394998331787
+Unconstrained EMA + Ridge + Cycle-CP,22,169,160,1.7237719985132571
+Unconstrained EMA + Ridge + Cycle-CP,22,170,197,1.797134998923866
+Unconstrained EMA + Ridge + Cycle-CP,22,171,230,2.0176279977022205
+Unconstrained EMA + Ridge + Cycle-CP,22,172,195,1.9183360018359963
+Unconstrained EMA + Ridge + Cycle-CP,22,173,168,1.7415149995940737
+Unconstrained EMA + Ridge + Cycle-CP,22,174,189,2.054709999356419
+Unconstrained EMA + Ridge + Cycle-CP,22,175,244,2.1574839993263595
+Unconstrained EMA + Ridge + Cycle-CP,22,176,186,1.9767480007431004
+Unconstrained EMA + Ridge + Cycle-CP,22,177,204,2.0341259987617377
+Unconstrained EMA + Ridge + Cycle-CP,22,178,166,1.873164001153782
+Unconstrained EMA + Ridge + Cycle-CP,22,179,242,2.412056001048768
+Unconstrained EMA + Ridge + Cycle-CP,22,180,215,2.28785999934189
+Unconstrained EMA + Ridge + Cycle-CP,33,131,188,2.0247180000296794
+Unconstrained EMA + Ridge + Cycle-CP,33,132,156,1.8897869995271321
+Unconstrained EMA + Ridge + Cycle-CP,33,133,204,1.9909280017600395
+Unconstrained EMA + Ridge + Cycle-CP,33,134,189,1.8895739995059557
+Unconstrained EMA + Ridge + Cycle-CP,33,135,247,2.0049250015290454
+Unconstrained EMA + Ridge + Cycle-CP,33,136,188,2.649717000167584
+Unconstrained EMA + Ridge + Cycle-CP,33,137,235,2.825814997777343
+Unconstrained EMA + Ridge + Cycle-CP,33,138,229,2.8740870002366137
+Unconstrained EMA + Ridge + Cycle-CP,33,139,231,2.8286790002312046
+Unconstrained EMA + Ridge + Cycle-CP,33,140,225,3.562732003047131
+Unconstrained EMA + Ridge + Cycle-CP,33,141,232,2.6420829999551643
+Unconstrained EMA + Ridge + Cycle-CP,33,142,224,2.3608699993928894
+Unconstrained EMA + Ridge + Cycle-CP,33,143,186,2.3128620014176704
+Unconstrained EMA + Ridge + Cycle-CP,33,144,212,2.3165910024545155
+Unconstrained EMA + Ridge + Cycle-CP,33,145,200,2.6245410008414183
+Unconstrained EMA + Ridge + Cycle-CP,33,146,169,1.8725709996942896
+Unconstrained EMA + Ridge + Cycle-CP,33,147,224,1.916261997394031
+Unconstrained EMA + Ridge + Cycle-CP,33,148,183,2.6544219981587958
+Unconstrained EMA + Ridge + Cycle-CP,33,149,232,2.541734997066669
+Unconstrained EMA + Ridge + Cycle-CP,33,150,201,2.0451860000321176
+Unconstrained EMA + Ridge + Cycle-CP,33,151,189,1.9964969978900626
+Unconstrained EMA + Ridge + Cycle-CP,33,152,163,1.8988749980053399
+Unconstrained EMA + Ridge + Cycle-CP,33,153,195,1.9172379979863763
+Unconstrained EMA + Ridge + Cycle-CP,33,154,224,1.9354809992364608
+Unconstrained EMA + Ridge + Cycle-CP,33,155,250,1.9100909994449466
+Unconstrained EMA + Ridge + Cycle-CP,33,156,159,2.2268460015766323
+Unconstrained EMA + Ridge + Cycle-CP,33,157,224,2.8218860024935566
+Unconstrained EMA + Ridge + Cycle-CP,33,158,176,2.131979003024753
+Unconstrained EMA + Ridge + Cycle-CP,33,159,177,1.9307680013298523
+Unconstrained EMA + Ridge + Cycle-CP,33,160,216,2.1552359976340085
+Unconstrained EMA + Ridge + Cycle-CP,33,161,215,2.147589999367483
+Unconstrained EMA + Ridge + Cycle-CP,33,162,154,2.3169720006990246
+Unconstrained EMA + Ridge + Cycle-CP,33,163,211,1.9558079984562937
+Unconstrained EMA + Ridge + Cycle-CP,33,164,208,2.2643699994659983
+Unconstrained EMA + Ridge + Cycle-CP,33,165,226,2.740207000897499
+Unconstrained EMA + Ridge + Cycle-CP,33,166,199,2.153642002667766
+Unconstrained EMA + Ridge + Cycle-CP,33,167,166,1.9322849984746426
+Unconstrained EMA + Ridge + Cycle-CP,33,168,192,2.035214001807617
+Unconstrained EMA + Ridge + Cycle-CP,33,169,178,1.9348889982211404
+Unconstrained EMA + Ridge + Cycle-CP,33,170,172,1.84503099808353
+Unconstrained EMA + Ridge + Cycle-CP,33,171,174,1.841779001551913
+Unconstrained EMA + Ridge + Cycle-CP,33,172,159,1.7580239982635248
+Unconstrained EMA + Ridge + Cycle-CP,33,173,175,1.8720350017247256
+Unconstrained EMA + Ridge + Cycle-CP,33,174,159,2.2713090002071112
+Unconstrained EMA + Ridge + Cycle-CP,33,175,160,1.8582809971121605
+Unconstrained EMA + Ridge + Cycle-CP,33,176,225,2.54294800106436
+Unconstrained EMA + Ridge + Cycle-CP,33,177,167,2.4475309983245097
+Unconstrained EMA + Ridge + Cycle-CP,33,178,206,2.053139000054216
+Unconstrained EMA + Ridge + Cycle-CP,33,179,183,1.8633769977896009
+Unconstrained EMA + Ridge + Cycle-CP,33,180,183,1.893715001642704
+Unconstrained EMA + Ridge + Cycle-CP,44,131,236,2.4828549976518843
+Unconstrained EMA + Ridge + Cycle-CP,44,132,243,2.3883149988250807
+Unconstrained EMA + Ridge + Cycle-CP,44,133,215,2.243257000372978
+Unconstrained EMA + Ridge + Cycle-CP,44,134,223,3.846306997729698
+Unconstrained EMA + Ridge + Cycle-CP,44,135,247,3.512860002956586
+Unconstrained EMA + Ridge + Cycle-CP,44,136,195,3.426084000238916
+Unconstrained EMA + Ridge + Cycle-CP,44,137,217,2.6128960016649216
+Unconstrained EMA + Ridge + Cycle-CP,44,138,224,2.4269770001410507
+Unconstrained EMA + Ridge + Cycle-CP,44,139,162,2.7171479996468406
+Unconstrained EMA + Ridge + Cycle-CP,44,140,249,2.3337259990512393
+Unconstrained EMA + Ridge + Cycle-CP,44,141,228,2.464485998643795
+Unconstrained EMA + Ridge + Cycle-CP,44,142,228,2.226856999186566
+Unconstrained EMA + Ridge + Cycle-CP,44,143,181,2.039865001279395
+Unconstrained EMA + Ridge + Cycle-CP,44,144,232,2.3649049981031567
+Unconstrained EMA + Ridge + Cycle-CP,44,145,248,2.299501000379678
+Unconstrained EMA + Ridge + Cycle-CP,44,146,235,3.268789001594996
+Unconstrained EMA + Ridge + Cycle-CP,44,147,222,2.712740999413654
+Unconstrained EMA + Ridge + Cycle-CP,44,148,213,2.2740130007150583
+Unconstrained EMA + Ridge + Cycle-CP,44,149,158,2.080817001115065
+Unconstrained EMA + Ridge + Cycle-CP,44,150,230,2.136489998520119
+Unconstrained EMA + Ridge + Cycle-CP,44,151,184,2.182980999350548
+Unconstrained EMA + Ridge + Cycle-CP,44,152,208,2.8400390001479536
+Unconstrained EMA + Ridge + Cycle-CP,44,153,163,2.089260997308884
+Unconstrained EMA + Ridge + Cycle-CP,44,154,194,1.9621790015662555
+Unconstrained EMA + Ridge + Cycle-CP,44,155,163,3.223987001547357
+Unconstrained EMA + Ridge + Cycle-CP,44,156,239,4.330610001488822
+Unconstrained EMA + Ridge + Cycle-CP,44,157,228,2.2585719998460263
+Unconstrained EMA + Ridge + Cycle-CP,44,158,196,2.194063999922946
+Unconstrained EMA + Ridge + Cycle-CP,44,159,185,2.102480000758078
+Unconstrained EMA + Ridge + Cycle-CP,44,160,229,2.14861899803509
+Unconstrained EMA + Ridge + Cycle-CP,44,161,179,1.9849700001941528
+Unconstrained EMA + Ridge + Cycle-CP,44,162,248,3.3076379986596294
+Unconstrained EMA + Ridge + Cycle-CP,44,163,196,2.2161929991852958
+Unconstrained EMA + Ridge + Cycle-CP,44,164,231,2.812110000377288
+Unconstrained EMA + Ridge + Cycle-CP,44,165,181,2.8536669997265562
+Unconstrained EMA + Ridge + Cycle-CP,44,166,216,3.165456000715494
+Unconstrained EMA + Ridge + Cycle-CP,44,167,219,2.930852999270428
+Unconstrained EMA + Ridge + Cycle-CP,44,168,162,2.834957998857135
+Unconstrained EMA + Ridge + Cycle-CP,44,169,197,2.840782999555813
+Unconstrained EMA + Ridge + Cycle-CP,44,170,156,2.9296190004970413
+Unconstrained EMA + Ridge + Cycle-CP,44,171,194,3.574094000214245
+Unconstrained EMA + Ridge + Cycle-CP,44,172,234,2.999442000145791
+Unconstrained EMA + Ridge + Cycle-CP,44,173,157,2.7510410000104457
+Unconstrained EMA + Ridge + Cycle-CP,44,174,205,3.0345519990078174
+Unconstrained EMA + Ridge + Cycle-CP,44,175,174,2.582539000286488
+Unconstrained EMA + Ridge + Cycle-CP,44,176,227,2.2135700019134674
+Unconstrained EMA + Ridge + Cycle-CP,44,177,186,1.9914250005967915
+Unconstrained EMA + Ridge + Cycle-CP,44,178,193,2.0070560021849815
+Unconstrained EMA + Ridge + Cycle-CP,44,179,167,1.9614999982877634
+Unconstrained EMA + Ridge + Cycle-CP,44,180,222,2.102638998621842
+Unconstrained EMA + Ridge + Cycle-CP,55,131,180,2.2826530002930667
+Unconstrained EMA + Ridge + Cycle-CP,55,132,161,1.9010559990420006
+Unconstrained EMA + Ridge + Cycle-CP,55,133,214,2.980876000947319
+Unconstrained EMA + Ridge + Cycle-CP,55,134,219,2.5541420000081416
+Unconstrained EMA + Ridge + Cycle-CP,55,135,237,2.1577400002570357
+Unconstrained EMA + Ridge + Cycle-CP,55,136,185,1.9028589995286893
+Unconstrained EMA + Ridge + Cycle-CP,55,137,227,2.308531002199743
+Unconstrained EMA + Ridge + Cycle-CP,55,138,228,2.905492001445964
+Unconstrained EMA + Ridge + Cycle-CP,55,139,215,2.07449699883
+Unconstrained EMA + Ridge + Cycle-CP,55,140,245,2.3346729976765346
+Unconstrained EMA + Ridge + Cycle-CP,55,141,223,2.0794999982172158
+Unconstrained EMA + Ridge + Cycle-CP,55,142,246,2.1126800020283554
+Unconstrained EMA + Ridge + Cycle-CP,55,143,245,2.1524050025618635
+Unconstrained EMA + Ridge + Cycle-CP,55,144,203,2.210660997661762
+Unconstrained EMA + Ridge + Cycle-CP,55,145,197,1.9476050001685508
+Unconstrained EMA + Ridge + Cycle-CP,55,146,230,1.8913990024884697
+Unconstrained EMA + Ridge + Cycle-CP,55,147,236,2.1022590008215047
+Unconstrained EMA + Ridge + Cycle-CP,55,148,164,1.767162000760436
+Unconstrained EMA + Ridge + Cycle-CP,55,149,179,1.7461119969084393
+Unconstrained EMA + Ridge + Cycle-CP,55,150,156,1.811583002563566
+Unconstrained EMA + Ridge + Cycle-CP,55,151,188,1.895888999570161
+Unconstrained EMA + Ridge + Cycle-CP,55,152,186,2.109072000166634
+Unconstrained EMA + Ridge + Cycle-CP,55,153,158,1.9107699990854599
+Unconstrained EMA + Ridge + Cycle-CP,55,154,191,1.7549420008435845
+Unconstrained EMA + Ridge + Cycle-CP,55,155,155,1.772274998074863
+Unconstrained EMA + Ridge + Cycle-CP,55,156,173,2.0057649999216665
+Unconstrained EMA + Ridge + Cycle-CP,55,157,162,2.513434999855235
+Unconstrained EMA + Ridge + Cycle-CP,55,158,236,2.0611569998436607
+Unconstrained EMA + Ridge + Cycle-CP,55,159,245,2.571823999460321
+Unconstrained EMA + Ridge + Cycle-CP,55,160,225,2.6260900012857746
+Unconstrained EMA + Ridge + Cycle-CP,55,161,203,2.5252900013583712
+Unconstrained EMA + Ridge + Cycle-CP,55,162,196,2.381638998485869
+Unconstrained EMA + Ridge + Cycle-CP,55,163,162,2.4655039997014683
+Unconstrained EMA + Ridge + Cycle-CP,55,164,172,1.8615849985508248
+Unconstrained EMA + Ridge + Cycle-CP,55,165,208,2.3379070007649716
+Unconstrained EMA + Ridge + Cycle-CP,55,166,183,1.9048659996769857
+Unconstrained EMA + Ridge + Cycle-CP,55,167,247,2.7078390012320597
+Unconstrained EMA + Ridge + Cycle-CP,55,168,225,2.4046050020842813
+Unconstrained EMA + Ridge + Cycle-CP,55,169,174,1.9455020010354929
+Unconstrained EMA + Ridge + Cycle-CP,55,170,221,2.0211659975757357
+Unconstrained EMA + Ridge + Cycle-CP,55,171,221,2.5733709990163334
+Unconstrained EMA + Ridge + Cycle-CP,55,172,203,2.025530000537401
+Unconstrained EMA + Ridge + Cycle-CP,55,173,241,2.13325999720837
+Unconstrained EMA + Ridge + Cycle-CP,55,174,240,1.9327859990880825
+Unconstrained EMA + Ridge + Cycle-CP,55,175,181,2.563201996963471
+Unconstrained EMA + Ridge + Cycle-CP,55,176,198,2.422047000436578
+Unconstrained EMA + Ridge + Cycle-CP,55,177,151,1.9597530008468311
+Unconstrained EMA + Ridge + Cycle-CP,55,178,231,1.9541820001904853
+Unconstrained EMA + Ridge + Cycle-CP,55,179,170,1.839042000938207
+Unconstrained EMA + Ridge + Cycle-CP,55,180,207,1.960785000846954
+Causal Monotone + Ridge + Unit-CP (Q1b),11,131,180,2.7609969984041527
+Causal Monotone + Ridge + Unit-CP (Q1b),11,132,240,2.401612000539899
+Causal Monotone + Ridge + Unit-CP (Q1b),11,133,231,2.2790820003137924
+Causal Monotone + Ridge + Unit-CP (Q1b),11,134,165,2.116889001626987
+Causal Monotone + Ridge + Unit-CP (Q1b),11,135,238,2.2911550004209857
+Causal Monotone + Ridge + Unit-CP (Q1b),11,136,201,2.4977450011647306
+Causal Monotone + Ridge + Unit-CP (Q1b),11,137,252,2.455789002851816
+Causal Monotone + Ridge + Unit-CP (Q1b),11,138,157,2.750834999460494
+Causal Monotone + Ridge + Unit-CP (Q1b),11,139,245,3.1131759969866835
+Causal Monotone + Ridge + Unit-CP (Q1b),11,140,227,2.7130089983984362
+Causal Monotone + Ridge + Unit-CP (Q1b),11,141,189,2.5904799986165017
+Causal Monotone + Ridge + Unit-CP (Q1b),11,142,174,2.900915998907294
+Causal Monotone + Ridge + Unit-CP (Q1b),11,143,169,2.3555389998364262
+Causal Monotone + Ridge + Unit-CP (Q1b),11,144,157,2.09091999931843
+Causal Monotone + Ridge + Unit-CP (Q1b),11,145,240,2.201889001298696
+Causal Monotone + Ridge + Unit-CP (Q1b),11,146,227,2.481216000887798
+Causal Monotone + Ridge + Unit-CP (Q1b),11,147,215,2.0777790014108177
+Causal Monotone + Ridge + Unit-CP (Q1b),11,148,157,1.9868420022248756
+Causal Monotone + Ridge + Unit-CP (Q1b),11,149,166,2.073921001283452
+Causal Monotone + Ridge + Unit-CP (Q1b),11,150,160,2.294461999554187
+Causal Monotone + Ridge + Unit-CP (Q1b),11,151,201,2.1150489992578514
+Causal Monotone + Ridge + Unit-CP (Q1b),11,152,162,1.976235998881748
+Causal Monotone + Ridge + Unit-CP (Q1b),11,153,205,2.211409002484288
+Causal Monotone + Ridge + Unit-CP (Q1b),11,154,207,2.2347689991875086
+Causal Monotone + Ridge + Unit-CP (Q1b),11,155,159,2.089442998112645
+Causal Monotone + Ridge + Unit-CP (Q1b),11,156,175,1.9343509993632324
+Causal Monotone + Ridge + Unit-CP (Q1b),11,157,228,2.1542360009334516
+Causal Monotone + Ridge + Unit-CP (Q1b),11,158,162,2.158303999749478
+Causal Monotone + Ridge + Unit-CP (Q1b),11,159,194,2.206539000326302
+Causal Monotone + Ridge + Unit-CP (Q1b),11,160,245,2.1376129989221226
+Causal Monotone + Ridge + Unit-CP (Q1b),11,161,241,2.6742150002974086
+Causal Monotone + Ridge + Unit-CP (Q1b),11,162,230,2.39288100056001
+Causal Monotone + Ridge + Unit-CP (Q1b),11,163,242,2.288556999701541
+Causal Monotone + Ridge + Unit-CP (Q1b),11,164,212,2.186442001402611
+Causal Monotone + Ridge + Unit-CP (Q1b),11,165,204,2.120170000125654
+Causal Monotone + Ridge + Unit-CP (Q1b),11,166,154,2.0906710014969576
+Causal Monotone + Ridge + Unit-CP (Q1b),11,167,216,2.804756000841735
+Causal Monotone + Ridge + Unit-CP (Q1b),11,168,181,2.8304699990258086
+Causal Monotone + Ridge + Unit-CP (Q1b),11,169,188,2.353797000978375
+Causal Monotone + Ridge + Unit-CP (Q1b),11,170,192,3.0168760022206698
+Causal Monotone + Ridge + Unit-CP (Q1b),11,171,215,2.7560489979805425
+Causal Monotone + Ridge + Unit-CP (Q1b),11,172,158,2.6509130002523307
+Causal Monotone + Ridge + Unit-CP (Q1b),11,173,234,2.350286998989759
+Causal Monotone + Ridge + Unit-CP (Q1b),11,174,158,2.633361000334844
+Causal Monotone + Ridge + Unit-CP (Q1b),11,175,216,2.9335489998629782
+Causal Monotone + Ridge + Unit-CP (Q1b),11,176,158,3.1774810013303068
+Causal Monotone + Ridge + Unit-CP (Q1b),11,177,239,3.2489139994140714
+Causal Monotone + Ridge + Unit-CP (Q1b),11,178,227,2.9910340017522685
+Causal Monotone + Ridge + Unit-CP (Q1b),11,179,161,2.3584279988426715
+Causal Monotone + Ridge + Unit-CP (Q1b),11,180,236,2.28568899910897
+Causal Monotone + Ridge + Unit-CP (Q1b),22,131,214,2.4748039977566805
+Causal Monotone + Ridge + Unit-CP (Q1b),22,132,158,2.201243998570135
+Causal Monotone + Ridge + Unit-CP (Q1b),22,133,253,2.4047199985943735
+Causal Monotone + Ridge + Unit-CP (Q1b),22,134,211,2.291976001288276
+Causal Monotone + Ridge + Unit-CP (Q1b),22,135,202,2.051348998065805
+Causal Monotone + Ridge + Unit-CP (Q1b),22,136,245,2.0991919991502073
+Causal Monotone + Ridge + Unit-CP (Q1b),22,137,210,2.121012999850791
+Causal Monotone + Ridge + Unit-CP (Q1b),22,138,246,2.351314000407001
+Causal Monotone + Ridge + Unit-CP (Q1b),22,139,233,2.9760530014755204
+Causal Monotone + Ridge + Unit-CP (Q1b),22,140,197,2.9079800006002188
+Causal Monotone + Ridge + Unit-CP (Q1b),22,141,248,2.4228180009231437
+Causal Monotone + Ridge + Unit-CP (Q1b),22,142,218,3.031362997717224
+Causal Monotone + Ridge + Unit-CP (Q1b),22,143,157,2.676566000445746
+Causal Monotone + Ridge + Unit-CP (Q1b),22,144,195,2.2320710013445932
+Causal Monotone + Ridge + Unit-CP (Q1b),22,145,198,2.3095450014807284
+Causal Monotone + Ridge + Unit-CP (Q1b),22,146,215,2.10686100035673
+Causal Monotone + Ridge + Unit-CP (Q1b),22,147,216,2.0984519978810567
+Causal Monotone + Ridge + Unit-CP (Q1b),22,148,188,2.1678179982700385
+Causal Monotone + Ridge + Unit-CP (Q1b),22,149,196,3.2498250002390705
+Causal Monotone + Ridge + Unit-CP (Q1b),22,150,196,2.9699149999942165
+Causal Monotone + Ridge + Unit-CP (Q1b),22,151,235,3.1338010012404993
+Causal Monotone + Ridge + Unit-CP (Q1b),22,152,237,3.160814998409478
+Causal Monotone + Ridge + Unit-CP (Q1b),22,153,209,2.438906998577295
+Causal Monotone + Ridge + Unit-CP (Q1b),22,154,207,2.485990000423044
+Causal Monotone + Ridge + Unit-CP (Q1b),22,155,228,2.403783000772819
+Causal Monotone + Ridge + Unit-CP (Q1b),22,156,192,2.3716579999017995
+Causal Monotone + Ridge + Unit-CP (Q1b),22,157,204,2.2079680020397063
+Causal Monotone + Ridge + Unit-CP (Q1b),22,158,242,2.4849420005921274
+Causal Monotone + Ridge + Unit-CP (Q1b),22,159,177,2.9343360001803376
+Causal Monotone + Ridge + Unit-CP (Q1b),22,160,175,3.4890999995695893
+Causal Monotone + Ridge + Unit-CP (Q1b),22,161,178,2.515496002160944
+Causal Monotone + Ridge + Unit-CP (Q1b),22,162,216,2.562712001235923
+Causal Monotone + Ridge + Unit-CP (Q1b),22,163,222,2.4566760002926458
+Causal Monotone + Ridge + Unit-CP (Q1b),22,164,193,2.2338620001391973
+Causal Monotone + Ridge + Unit-CP (Q1b),22,165,203,2.245579002192244
+Causal Monotone + Ridge + Unit-CP (Q1b),22,166,242,2.616729001601925
+Causal Monotone + Ridge + Unit-CP (Q1b),22,167,240,2.380976999120321
+Causal Monotone + Ridge + Unit-CP (Q1b),22,168,221,2.2463240020442754
+Causal Monotone + Ridge + Unit-CP (Q1b),22,169,160,2.9589400000986643
+Causal Monotone + Ridge + Unit-CP (Q1b),22,170,197,2.835149000020465
+Causal Monotone + Ridge + Unit-CP (Q1b),22,171,230,2.409116998023819
+Causal Monotone + Ridge + Unit-CP (Q1b),22,172,195,2.1672419970855117
+Causal Monotone + Ridge + Unit-CP (Q1b),22,173,168,2.0934309977747034
+Causal Monotone + Ridge + Unit-CP (Q1b),22,174,189,2.4008680011320394
+Causal Monotone + Ridge + Unit-CP (Q1b),22,175,244,2.785186003166018
+Causal Monotone + Ridge + Unit-CP (Q1b),22,176,186,2.7568119985517114
+Causal Monotone + Ridge + Unit-CP (Q1b),22,177,204,2.8875490024802275
+Causal Monotone + Ridge + Unit-CP (Q1b),22,178,166,3.2059840013971552
+Causal Monotone + Ridge + Unit-CP (Q1b),22,179,242,2.5877350017253775
+Causal Monotone + Ridge + Unit-CP (Q1b),22,180,215,2.496663000783883
+Causal Monotone + Ridge + Unit-CP (Q1b),33,131,188,3.1453510018764064
+Causal Monotone + Ridge + Unit-CP (Q1b),33,132,156,2.8096970017941203
+Causal Monotone + Ridge + Unit-CP (Q1b),33,133,204,3.8869389973115176
+Causal Monotone + Ridge + Unit-CP (Q1b),33,134,189,2.8214610028953757
+Causal Monotone + Ridge + Unit-CP (Q1b),33,135,247,2.4251400027424097
+Causal Monotone + Ridge + Unit-CP (Q1b),33,136,188,2.2662720002699643
+Causal Monotone + Ridge + Unit-CP (Q1b),33,137,235,2.261374000227079
+Causal Monotone + Ridge + Unit-CP (Q1b),33,138,229,2.4997430009534582
+Causal Monotone + Ridge + Unit-CP (Q1b),33,139,231,2.295449998200638
+Causal Monotone + Ridge + Unit-CP (Q1b),33,140,225,3.017097998963436
+Causal Monotone + Ridge + Unit-CP (Q1b),33,141,232,2.435779999359511
+Causal Monotone + Ridge + Unit-CP (Q1b),33,142,224,3.300599000795046
+Causal Monotone + Ridge + Unit-CP (Q1b),33,143,186,2.4826059998304117
+Causal Monotone + Ridge + Unit-CP (Q1b),33,144,212,2.483821001078468
+Causal Monotone + Ridge + Unit-CP (Q1b),33,145,200,2.482894000422675
+Causal Monotone + Ridge + Unit-CP (Q1b),33,146,169,2.643151001393562
+Causal Monotone + Ridge + Unit-CP (Q1b),33,147,224,2.675293002539547
+Causal Monotone + Ridge + Unit-CP (Q1b),33,148,183,2.261372999782907
+Causal Monotone + Ridge + Unit-CP (Q1b),33,149,232,2.559004002250731
+Causal Monotone + Ridge + Unit-CP (Q1b),33,150,201,3.0990880004537757
+Causal Monotone + Ridge + Unit-CP (Q1b),33,151,189,2.9036500018264633
+Causal Monotone + Ridge + Unit-CP (Q1b),33,152,163,2.5882700028887484
+Causal Monotone + Ridge + Unit-CP (Q1b),33,153,195,2.564343001722591
+Causal Monotone + Ridge + Unit-CP (Q1b),33,154,224,2.2153270001581404
+Causal Monotone + Ridge + Unit-CP (Q1b),33,155,250,2.357222001592163
+Causal Monotone + Ridge + Unit-CP (Q1b),33,156,159,2.8797380000469275
+Causal Monotone + Ridge + Unit-CP (Q1b),33,157,224,3.353134998178575
+Causal Monotone + Ridge + Unit-CP (Q1b),33,158,176,3.518536002957262
+Causal Monotone + Ridge + Unit-CP (Q1b),33,159,177,4.416618998220656
+Causal Monotone + Ridge + Unit-CP (Q1b),33,160,216,3.7608149978041183
+Causal Monotone + Ridge + Unit-CP (Q1b),33,161,215,3.401443998882314
+Causal Monotone + Ridge + Unit-CP (Q1b),33,162,154,3.443966001213994
+Causal Monotone + Ridge + Unit-CP (Q1b),33,163,211,3.3454479998908937
+Causal Monotone + Ridge + Unit-CP (Q1b),33,164,208,3.276150000601774
+Causal Monotone + Ridge + Unit-CP (Q1b),33,165,226,3.4538889995019417
+Causal Monotone + Ridge + Unit-CP (Q1b),33,166,199,4.771405998326372
+Causal Monotone + Ridge + Unit-CP (Q1b),33,167,166,3.1826779995753895
+Causal Monotone + Ridge + Unit-CP (Q1b),33,168,192,2.835339997545816
+Causal Monotone + Ridge + Unit-CP (Q1b),33,169,178,2.3063439984980505
+Causal Monotone + Ridge + Unit-CP (Q1b),33,170,172,2.1957220014883205
+Causal Monotone + Ridge + Unit-CP (Q1b),33,171,174,2.1033260018157307
+Causal Monotone + Ridge + Unit-CP (Q1b),33,172,159,2.3384790001728106
+Causal Monotone + Ridge + Unit-CP (Q1b),33,173,175,3.029373001481872
+Causal Monotone + Ridge + Unit-CP (Q1b),33,174,159,2.7070839969383087
+Causal Monotone + Ridge + Unit-CP (Q1b),33,175,160,2.173138000216568
+Causal Monotone + Ridge + Unit-CP (Q1b),33,176,225,2.3124809995351825
+Causal Monotone + Ridge + Unit-CP (Q1b),33,177,167,2.9984690008859616
+Causal Monotone + Ridge + Unit-CP (Q1b),33,178,206,2.510054000595119
+Causal Monotone + Ridge + Unit-CP (Q1b),33,179,183,2.1363960004237015
+Causal Monotone + Ridge + Unit-CP (Q1b),33,180,183,2.218159999756608
+Causal Monotone + Ridge + Unit-CP (Q1b),44,131,236,2.7049249983974732
+Causal Monotone + Ridge + Unit-CP (Q1b),44,132,243,2.52660099795321
+Causal Monotone + Ridge + Unit-CP (Q1b),44,133,215,2.1815330001118127
+Causal Monotone + Ridge + Unit-CP (Q1b),44,134,223,2.3871099983807653
+Causal Monotone + Ridge + Unit-CP (Q1b),44,135,247,2.3160239979915787
+Causal Monotone + Ridge + Unit-CP (Q1b),44,136,195,2.288026997121051
+Causal Monotone + Ridge + Unit-CP (Q1b),44,137,217,2.5838850015134085
+Causal Monotone + Ridge + Unit-CP (Q1b),44,138,224,2.7160670033481438
+Causal Monotone + Ridge + Unit-CP (Q1b),44,139,162,3.2541299988224637
+Causal Monotone + Ridge + Unit-CP (Q1b),44,140,249,2.6487870018172543
+Causal Monotone + Ridge + Unit-CP (Q1b),44,141,228,2.4672460021974985
+Causal Monotone + Ridge + Unit-CP (Q1b),44,142,228,3.339828999742167
+Causal Monotone + Ridge + Unit-CP (Q1b),44,143,181,2.6913069996226113
+Causal Monotone + Ridge + Unit-CP (Q1b),44,144,232,2.2726770002918784
+Causal Monotone + Ridge + Unit-CP (Q1b),44,145,248,3.190601997630438
+Causal Monotone + Ridge + Unit-CP (Q1b),44,146,235,2.644344000145793
+Causal Monotone + Ridge + Unit-CP (Q1b),44,147,222,2.371107999351807
+Causal Monotone + Ridge + Unit-CP (Q1b),44,148,213,2.40546300119604
+Causal Monotone + Ridge + Unit-CP (Q1b),44,149,158,2.3708640001132153
+Causal Monotone + Ridge + Unit-CP (Q1b),44,150,230,2.26926599862054
+Causal Monotone + Ridge + Unit-CP (Q1b),44,151,184,2.151246000721585
+Causal Monotone + Ridge + Unit-CP (Q1b),44,152,208,2.8239089988346677
+Causal Monotone + Ridge + Unit-CP (Q1b),44,153,163,3.0730869984836318
+Causal Monotone + Ridge + Unit-CP (Q1b),44,154,194,2.3359369988611434
+Causal Monotone + Ridge + Unit-CP (Q1b),44,155,163,2.0978749998903368
+Causal Monotone + Ridge + Unit-CP (Q1b),44,156,239,2.2163930007081944
+Causal Monotone + Ridge + Unit-CP (Q1b),44,157,228,2.416051000182051
+Causal Monotone + Ridge + Unit-CP (Q1b),44,158,196,2.094400999339996
+Causal Monotone + Ridge + Unit-CP (Q1b),44,159,185,2.2503000000142492
+Causal Monotone + Ridge + Unit-CP (Q1b),44,160,229,3.0123219985398464
+Causal Monotone + Ridge + Unit-CP (Q1b),44,161,179,2.4037619987211656
+Causal Monotone + Ridge + Unit-CP (Q1b),44,162,248,2.2133800011943094
+Causal Monotone + Ridge + Unit-CP (Q1b),44,163,196,2.170343002944719
+Causal Monotone + Ridge + Unit-CP (Q1b),44,164,231,2.2655829998257104
+Causal Monotone + Ridge + Unit-CP (Q1b),44,165,181,2.175882000301499
+Causal Monotone + Ridge + Unit-CP (Q1b),44,166,216,2.674007999303285
+Causal Monotone + Ridge + Unit-CP (Q1b),44,167,219,2.515536998544121
+Causal Monotone + Ridge + Unit-CP (Q1b),44,168,162,2.0670070007327013
+Causal Monotone + Ridge + Unit-CP (Q1b),44,169,197,2.3905380003270693
+Causal Monotone + Ridge + Unit-CP (Q1b),44,170,156,2.296369999385206
+Causal Monotone + Ridge + Unit-CP (Q1b),44,171,194,2.2398750006686896
+Causal Monotone + Ridge + Unit-CP (Q1b),44,172,234,2.2672890008834656
+Causal Monotone + Ridge + Unit-CP (Q1b),44,173,157,2.354660002310993
+Causal Monotone + Ridge + Unit-CP (Q1b),44,174,205,2.132098001311533
+Causal Monotone + Ridge + Unit-CP (Q1b),44,175,174,2.3533990024589
+Causal Monotone + Ridge + Unit-CP (Q1b),44,176,227,2.3151450004661456
+Causal Monotone + Ridge + Unit-CP (Q1b),44,177,186,2.199254999140976
+Causal Monotone + Ridge + Unit-CP (Q1b),44,178,193,2.287905997945927
+Causal Monotone + Ridge + Unit-CP (Q1b),44,179,167,2.6209679999738
+Causal Monotone + Ridge + Unit-CP (Q1b),44,180,222,2.9164890001993626
+Causal Monotone + Ridge + Unit-CP (Q1b),55,131,180,2.3077380028553307
+Causal Monotone + Ridge + Unit-CP (Q1b),55,132,161,2.3231929990288336
+Causal Monotone + Ridge + Unit-CP (Q1b),55,133,214,3.286251001554774
+Causal Monotone + Ridge + Unit-CP (Q1b),55,134,219,2.947435998066794
+Causal Monotone + Ridge + Unit-CP (Q1b),55,135,237,2.484014999936335
+Causal Monotone + Ridge + Unit-CP (Q1b),55,136,185,2.144837999367155
+Causal Monotone + Ridge + Unit-CP (Q1b),55,137,227,2.1451360007631592
+Causal Monotone + Ridge + Unit-CP (Q1b),55,138,228,2.0728310009872075
+Causal Monotone + Ridge + Unit-CP (Q1b),55,139,215,2.0005439982924145
+Causal Monotone + Ridge + Unit-CP (Q1b),55,140,245,2.37708799977554
+Causal Monotone + Ridge + Unit-CP (Q1b),55,141,223,2.6954959976137616
+Causal Monotone + Ridge + Unit-CP (Q1b),55,142,246,2.936222997959703
+Causal Monotone + Ridge + Unit-CP (Q1b),55,143,245,2.230715999758104
+Causal Monotone + Ridge + Unit-CP (Q1b),55,144,203,2.9322410009626765
+Causal Monotone + Ridge + Unit-CP (Q1b),55,145,197,2.8675449975708034
+Causal Monotone + Ridge + Unit-CP (Q1b),55,146,230,2.2836880016257055
+Causal Monotone + Ridge + Unit-CP (Q1b),55,147,236,2.1771880019514356
+Causal Monotone + Ridge + Unit-CP (Q1b),55,148,164,2.1533699982683174
+Causal Monotone + Ridge + Unit-CP (Q1b),55,149,179,2.0308790008130018
+Causal Monotone + Ridge + Unit-CP (Q1b),55,150,156,1.8352040024183225
+Causal Monotone + Ridge + Unit-CP (Q1b),55,151,188,1.8930629994429182
+Causal Monotone + Ridge + Unit-CP (Q1b),55,152,186,2.29030800255714
+Causal Monotone + Ridge + Unit-CP (Q1b),55,153,158,2.672290000191424
+Causal Monotone + Ridge + Unit-CP (Q1b),55,154,191,2.344759002880892
+Causal Monotone + Ridge + Unit-CP (Q1b),55,155,155,2.4318249998032115
+Causal Monotone + Ridge + Unit-CP (Q1b),55,156,173,2.758802998869214
+Causal Monotone + Ridge + Unit-CP (Q1b),55,157,162,2.506319997337414
+Causal Monotone + Ridge + Unit-CP (Q1b),55,158,236,2.3099540012481157
+Causal Monotone + Ridge + Unit-CP (Q1b),55,159,245,2.2389689984265715
+Causal Monotone + Ridge + Unit-CP (Q1b),55,160,225,2.1806690019730013
+Causal Monotone + Ridge + Unit-CP (Q1b),55,161,203,2.139774001989281
+Causal Monotone + Ridge + Unit-CP (Q1b),55,162,196,2.059014001133619
+Causal Monotone + Ridge + Unit-CP (Q1b),55,163,162,1.9412900001043454
+Causal Monotone + Ridge + Unit-CP (Q1b),55,164,172,2.506422999431379
+Causal Monotone + Ridge + Unit-CP (Q1b),55,165,208,2.1305920017766766
+Causal Monotone + Ridge + Unit-CP (Q1b),55,166,183,1.9992340021417476
+Causal Monotone + Ridge + Unit-CP (Q1b),55,167,247,2.102097998431418
+Causal Monotone + Ridge + Unit-CP (Q1b),55,168,225,2.8526640016934834
+Causal Monotone + Ridge + Unit-CP (Q1b),55,169,174,2.776153000013437
+Causal Monotone + Ridge + Unit-CP (Q1b),55,170,221,2.2206769972399343
+Causal Monotone + Ridge + Unit-CP (Q1b),55,171,221,2.224200998171
+Causal Monotone + Ridge + Unit-CP (Q1b),55,172,203,2.4982810027722735
+Causal Monotone + Ridge + Unit-CP (Q1b),55,173,241,2.1065410001028795
+Causal Monotone + Ridge + Unit-CP (Q1b),55,174,240,2.1238170011201873
+Causal Monotone + Ridge + Unit-CP (Q1b),55,175,181,1.960980000148993
+Causal Monotone + Ridge + Unit-CP (Q1b),55,176,198,2.157123999495525
+Causal Monotone + Ridge + Unit-CP (Q1b),55,177,151,1.9008660019608214
+Causal Monotone + Ridge + Unit-CP (Q1b),55,178,231,2.0215449985698797
+Causal Monotone + Ridge + Unit-CP (Q1b),55,179,170,1.850826000008965
+Causal Monotone + Ridge + Unit-CP (Q1b),55,180,207,2.308459999767365
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,131,180,3.0175450010574423
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,132,240,3.1336879983427934
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,133,231,2.982588001032127
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,134,165,2.545662999182241
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,135,238,2.7504339996085037
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,136,201,3.0206629999156576
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,137,252,2.7582590009842534
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,138,157,2.4118010005622637
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,139,245,2.98553299944615
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,140,227,2.7143350016558543
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,141,189,2.6284150007995777
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,142,174,2.6523019987507723
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,143,169,2.4951989980763756
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,144,157,2.4359480012208223
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,145,240,2.6463880021765362
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,146,227,2.851772998837987
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,147,215,2.84176500281319
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,148,157,2.9376189995673485
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,149,166,3.752545999304857
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,150,160,3.3804669983510394
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,151,201,2.742872999078827
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,152,162,2.7969569964625407
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,153,205,3.635534998466028
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,154,207,2.7536680026969407
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,155,159,3.3448020003561396
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,156,175,5.198736998863751
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,157,228,3.3935669998754747
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,158,162,3.4994660018128343
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,159,194,2.7534619985090103
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,160,245,3.296516999398591
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,161,241,2.785417000268353
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,162,230,2.6737299995147623
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,163,242,3.116512998531107
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,164,212,3.6790480007766746
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,165,204,2.684271999896737
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,166,154,2.7138299992657267
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,167,216,2.741680000326596
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,168,181,2.3924369997985195
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,169,188,2.6719769994087983
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,170,192,3.5469020003802143
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,171,215,2.9675830010091886
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,172,158,2.4535319971619174
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,173,234,3.020077001565369
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,174,158,3.0001869999978226
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,175,216,2.582761000667233
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,176,158,3.0478449989459477
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,177,239,4.008513002190739
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,178,227,3.487017998850206
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,179,161,3.6424370009626728
+"DC-PdM Static (Causal Monotone + Linex, B9)",11,180,236,3.4615149997989647
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,131,214,3.2341480000468437
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,132,158,3.0442700008279644
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,133,253,2.9906539966759738
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,134,211,2.9155010015529115
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,135,202,3.450681997492211
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,136,245,4.044680998049444
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,137,210,3.6055270029464737
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,138,246,3.0137300018395763
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,139,233,3.0567020003218204
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,140,197,4.312136003136402
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,141,248,3.705004997755168
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,142,218,4.069746999448398
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,143,157,3.5805160005111247
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,144,195,3.296933002275182
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,145,198,3.5905139993701596
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,146,215,2.8718350004055537
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,147,216,3.3835370013548527
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,148,188,2.942664003057871
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,149,196,3.1520249976892956
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,150,196,3.086528999119764
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,151,235,3.0375969981832895
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,152,237,3.5430919997452293
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,153,209,3.8629059999948367
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,154,207,3.537914999469649
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,155,228,3.4645039995666593
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,156,192,3.321449999930337
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,157,204,3.2752189981692936
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,158,242,3.4530519988038577
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,159,177,2.8603239989024587
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,160,175,3.499325001030229
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,161,178,4.152686000452377
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,162,216,3.3585719975235406
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,163,222,3.2656529983796645
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,164,193,3.1964460031304043
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,165,203,3.2233940000878647
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,166,242,3.7659849986084737
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,167,240,3.688454999064561
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,168,221,2.858371000911575
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,169,160,3.0568420006602537
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,170,197,2.853869998943992
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,171,230,3.2326609980373178
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,172,195,3.016176000528503
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,173,168,2.8726579985232092
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,174,189,3.172138000081759
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,175,244,2.8677769987552892
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,176,186,2.652733001013985
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,177,204,3.3471659990027547
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,178,166,3.034871002455475
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,179,242,3.9417990010406356
+"DC-PdM Static (Causal Monotone + Linex, B9)",22,180,215,3.637703997810604
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,131,188,3.4314719996473286
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,132,156,2.8541480023704935
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,133,204,2.93351200161851
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,134,189,3.4985589991265442
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,135,247,2.96093699944322
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,136,188,3.383272996870801
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,137,235,4.013408997707302
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,138,229,3.4356310025032144
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,139,231,3.8881860018591397
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,140,225,3.023736997420201
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,141,232,2.836592000676319
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,142,224,3.0845029978081584
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,143,186,3.1224349986587185
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,144,212,3.2255000005534384
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,145,200,3.62861800022074
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,146,169,2.5756089999049436
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,147,224,2.7120049999211915
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,148,183,2.6548330024525058
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,149,232,3.1131579999055248
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,150,201,2.6112679988727905
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,151,189,3.5237129995948635
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,152,163,3.0245480011217296
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,153,195,2.520344998629298
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,154,224,2.6329669999540783
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,155,250,2.813028000673512
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,156,159,2.328401998966001
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,157,224,2.7047980001952965
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,158,176,2.472064999892609
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,159,177,2.392484002484707
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,160,216,2.542910999181913
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,161,215,2.5542609982949216
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,162,154,2.6033409994852263
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,163,211,2.867601997422753
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,164,208,2.667370998096885
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,165,226,3.221708000637591
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,166,199,3.3775919982872438
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,167,166,3.064035001443699
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,168,192,3.598847000830574
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,169,178,2.683538998098811
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,170,172,3.0757240019738674
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,171,174,2.9393320000963286
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,172,159,2.7236669993726537
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,173,175,2.8514820005511865
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,174,159,3.416282001126092
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,175,160,2.750797997578047
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,176,225,2.76631599990651
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,177,167,2.472948999638902
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,178,206,2.696888001082698
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,179,183,2.413193000393221
+"DC-PdM Static (Causal Monotone + Linex, B9)",33,180,183,2.5323800000478514
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,131,236,3.218573998310603
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,132,243,2.9709979971812572
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,133,215,2.783566997095477
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,134,223,2.77673599703121
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,135,247,2.7862870010721963
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,136,195,2.6185400020040106
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,137,217,2.6142700007767417
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,138,224,3.1708639980934095
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,139,162,2.592755001387559
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,140,249,3.862513000058243
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,141,228,2.9957999977341387
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,142,228,2.8926710001542233
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,143,181,3.369953999936115
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,144,232,3.428601998166414
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,145,248,3.300172000308521
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,146,235,3.6159039991616737
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,147,222,2.8942249991814606
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,148,213,2.9638870000781026
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,149,158,2.4294560025737155
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,150,230,2.877925002394477
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,151,184,2.6799660008691717
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,152,208,2.546013998653507
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,153,163,2.397494001343148
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,154,194,2.6054369991470594
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,155,163,2.9882539965910837
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,156,239,3.4365780011285096
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,157,228,3.0467949982266873
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,158,196,3.4367780026514083
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,159,185,3.266398998675868
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,160,229,3.049350001674611
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,161,179,2.6197719998890534
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,162,248,3.6148149993096013
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,163,196,4.786655001225881
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,164,231,4.344327000580961
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,165,181,4.127782001887681
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,166,216,4.398101998958737
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,167,219,4.377393997856416
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,168,162,4.223956999339862
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,169,197,4.212514999380801
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,170,156,3.3810770000854973
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,171,194,3.1073339996510185
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,172,234,3.3164809974550735
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,173,157,2.7592740007094108
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,174,205,3.0358799995156005
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,175,174,4.9375650014553685
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,176,227,2.9984659995534457
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,177,186,2.511990998755209
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,178,193,2.7591289981501177
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,179,167,2.613157001178479
+"DC-PdM Static (Causal Monotone + Linex, B9)",44,180,222,2.558595999289537
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,131,180,3.1710580005892552
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,132,161,2.5629090014263056
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,133,214,3.313746998173883
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,134,219,3.426737999689067
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,135,237,2.736073001869954
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,136,185,2.7375930003472604
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,137,227,3.655919001175789
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,138,228,2.8482800007623155
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,139,215,3.18677700124681
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,140,245,2.656235999893397
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,141,223,2.908587001002161
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,142,246,3.2990979998430703
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,143,245,2.67659700330114
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,144,203,2.518164001230616
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,145,197,2.4279780009237584
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,146,230,2.799031000904506
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,147,236,2.5817440000537317
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,148,164,2.488813999661943
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,149,179,2.432878001854988
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,150,156,2.4283639977511484
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,151,188,2.5344429996039253
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,152,186,2.672593000170309
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,153,158,2.3272830003406852
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,154,191,2.4044500023592263
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,155,155,2.4198150022129994
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,156,173,2.5545940006850287
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,157,162,2.259725002659252
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,158,236,2.519659999961732
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,159,245,2.876165999623481
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,160,225,2.6435689978825394
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,161,203,2.9292269973666407
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,162,196,2.7733919996535406
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,163,162,3.27447299787309
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,164,172,2.7753760004998185
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,165,208,2.505555999960052
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,166,183,2.9754139977740124
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,167,247,3.8329130002239253
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,168,225,2.909599003032781
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,169,174,2.6479340012883767
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,170,221,3.402136000659084
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,171,221,2.75186400176608
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,172,203,2.8554520031320862
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,173,241,3.003644997079391
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,174,240,2.4786530011624563
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,175,181,2.3875219994806685
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,176,198,3.3547949969943147
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,177,151,2.8347769984975457
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,178,231,2.652011000463972
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,179,170,2.565227001468884
+"DC-PdM Static (Causal Monotone + Linex, B9)",55,180,207,2.43421000050148
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,131,180,3.079366000747541
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,132,240,2.9189359993324615
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,133,231,2.8709379985230044
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,134,165,2.563084999565035
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,135,238,2.687383999727899
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,136,201,3.5242910016677342
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,137,252,3.4934350005642045
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,138,157,2.5636300015321467
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,139,245,2.992588997585699
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,140,227,2.7091429983556736
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,141,189,2.621118001115974
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,142,174,3.4262219996890053
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,143,169,2.740590996836545
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,144,157,2.42970600083936
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,145,240,3.9459369982068893
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,146,227,3.668124001706019
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,147,215,3.1869539998297114
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,148,157,3.044903998670634
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,149,166,2.7434280018496793
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,150,160,2.503031999367522
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,151,201,3.351687999384012
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,152,162,3.311960001155967
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,153,205,2.7255650020379107
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,154,207,3.2285109991789795
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,155,159,3.0787440009589773
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,156,175,3.026587000931613
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,157,228,3.2775849977042526
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,158,162,3.152422999846749
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,159,194,3.0309249996207654
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,160,245,3.9716549981676508
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,161,241,3.230283000448253
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,162,230,2.8903069978696294
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,163,242,2.808454999467358
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,164,212,2.689532997464994
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,165,204,2.6517129990679678
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,166,154,2.5494589972367976
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,167,216,2.9157099997974
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,168,181,2.5003000009746756
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,169,188,2.5390500013600104
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,170,192,2.5527869984216522
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,171,215,2.767044999927748
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,172,158,3.1184680010483135
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,173,234,3.4452110012352932
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,174,158,3.319619001558749
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,175,216,3.757009999389993
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,176,158,2.5585009971109685
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,177,239,3.910556999471737
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,178,227,3.1546120007988065
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,179,161,2.5366439986100886
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",11,180,236,3.1744059997436125
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,131,214,3.495064996968722
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,132,158,4.567050000332529
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,133,253,3.970380003011087
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,134,211,3.0011070011823904
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,135,202,2.9149129986763
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,136,245,3.161948003253201
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,137,210,3.726688002643641
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,138,246,4.695388000982348
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,139,233,3.792854000494117
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,140,197,3.243743001803523
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,141,248,3.2192949984164443
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,142,218,3.5183280015189666
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,143,157,3.123176997178234
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,144,195,3.7167549999139737
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,145,198,3.446665999945253
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,146,215,2.795762000459945
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,147,216,2.686619001906365
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,148,188,3.327827998873545
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,149,196,2.730431002419209
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,150,196,2.643277999595739
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,151,235,3.5136539991071913
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,152,237,3.7300990006770007
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,153,209,2.875718000723282
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,154,207,3.873577999911504
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,155,228,3.8647209985356312
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,156,192,3.0608509987359866
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,157,204,2.8699079994112253
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,158,242,2.8806869995605666
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,159,177,2.6254959993821103
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,160,175,2.562212001066655
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,161,178,3.035601999727078
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,162,216,3.0694740016770083
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,163,222,3.900256000633817
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,164,193,3.0075939976086374
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,165,203,2.9199269993114285
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,166,242,3.179112998623168
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,167,240,3.4442550022504292
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,168,221,3.612849999626633
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,169,160,3.766544999962207
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,170,197,2.8012239999952726
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,171,230,2.9838980008207727
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,172,195,3.1062349989952054
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,173,168,3.5296200003358535
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,174,189,4.459297000721563
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,175,244,4.0243609983008355
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,176,186,3.2243630012089852
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,177,204,2.829007997206645
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,178,166,2.836555002431851
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,179,242,3.312648001156049
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",22,180,215,4.393318999063922
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,131,188,3.5947180003859103
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,132,156,3.5032050000154413
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,133,204,3.538028999173548
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,134,189,2.9057499996270053
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,135,247,3.082993000134593
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,136,188,3.9449760006391443
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,137,235,3.178842001943849
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,138,229,3.280299002653919
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,139,231,3.494716002023779
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,140,225,3.0656930030090734
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,141,232,3.399418001208687
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,142,224,2.825614999892423
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,143,186,2.8663020020758267
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,144,212,3.691347999847494
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,145,200,2.829889999702573
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,146,169,2.8920099975948688
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,147,224,4.064791999553563
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,148,183,3.115504001470981
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,149,232,2.9886709999118466
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,150,201,2.773331001662882
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,151,189,2.6261680031893775
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,152,163,2.43909999699099
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,153,195,2.7519319992279634
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,154,224,2.7046790019085165
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,155,250,2.9310319987416733
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,156,159,2.543192000302952
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,157,224,2.8086150014132727
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,158,176,2.5000700006785337
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,159,177,2.4704999996174593
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,160,216,3.223346000595484
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,161,215,3.53422699845396
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,162,154,2.5882299996737856
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,163,211,2.941610997368116
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,164,208,3.250155001296662
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,165,226,2.8807720009353943
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,166,199,2.995522998389788
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,167,166,2.647962999617448
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,168,192,3.0518999992636964
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,169,178,3.1829459985601716
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,170,172,3.2396169990533963
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,171,174,2.816349999193335
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,172,159,3.2946379978966434
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,173,175,2.6524829991103616
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,174,159,2.8190670018375386
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,175,160,3.057473000808386
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,176,225,3.391076999832876
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,177,167,3.1416140009241644
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,178,206,4.24387099701562
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,179,183,3.7863860015932005
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",33,180,183,2.811924001434818
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,131,236,3.7369329984358046
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,132,243,3.3097669984272216
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,133,215,2.7576199972827453
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,134,223,3.84098299764446
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,135,247,3.8372249982785434
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,136,195,3.1296149973059073
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,137,217,2.8604819999600295
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,138,224,2.8754960003425367
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,139,162,2.608188999147387
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,140,249,2.807083001243882
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,141,228,3.2635880015732255
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,142,228,2.651704999152571
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,143,181,2.563776997703826
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,144,232,2.7248450023762416
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,145,248,2.842388999852119
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,146,235,2.706524999666726
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,147,222,2.589580999483587
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,148,213,2.8077569986635353
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,149,158,2.453420998790534
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,150,230,2.6716210013546515
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,151,184,2.5417149990971666
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,152,208,2.770866998616839
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,153,163,2.514627998607466
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,154,194,2.585895999800414
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,155,163,2.7027309988625348
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,156,239,3.8632590003544465
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,157,228,3.2729429985920433
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,158,196,3.133406997221755
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,159,185,2.7580979985941667
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,160,229,2.7239369992457796
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,161,179,2.8431740029191133
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,162,248,3.841583002213156
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,163,196,2.641593000589637
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,164,231,3.6639829995692708
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,165,181,3.276310999353882
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,166,216,3.053215001273202
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,167,219,3.391145000932738
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,168,162,2.9956879989185836
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,169,197,2.6295600000594277
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,170,156,2.6783389985212125
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,171,194,2.6641479998943396
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,172,234,2.696321997063933
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,173,157,2.6105710021511186
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,174,205,4.291462999390205
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,175,174,3.305736001493642
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,176,227,3.0782789981458336
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,177,186,2.7118430007249117
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,178,193,2.6193229969067033
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,179,167,3.517244000249775
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",44,180,222,3.1273929998860694
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,131,180,3.155025999149075
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,132,161,2.8871230024378747
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,133,214,2.826560001267353
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,134,219,2.9148909998184536
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,135,237,2.8344679994916078
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,136,185,3.8072390016168356
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,137,227,3.015223002876155
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,138,228,2.7508540006238036
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,139,215,2.7870449994225055
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,140,245,2.8844340013165493
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,141,223,2.799497997330036
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,142,246,3.279463002400007
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,143,245,3.080669997871155
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,144,203,2.769835999060888
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,145,197,2.652308998221997
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,146,230,3.0737519991816953
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,147,236,3.282445002696477
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,148,164,2.511496000806801
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,149,179,3.5745829991356004
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,150,156,2.935689997684676
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,151,188,2.77905999973882
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,152,186,2.6444400027685333
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,153,158,2.723148001678055
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,154,191,2.5645099995017517
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,155,155,3.081727998505812
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,156,173,3.580471999157453
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,157,162,2.9095499994582497
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,158,236,4.183113000181038
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,159,245,3.2502520007255953
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,160,225,3.3804999984567985
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,161,203,2.6054330010083504
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,162,196,2.670545000000857
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,163,162,2.386465999734355
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,164,172,2.481110001099296
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,165,208,2.5253630010411143
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,166,183,2.6068020015372895
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,167,247,3.2284779990732204
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,168,225,2.6522470034251455
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,169,174,2.6642690027074423
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,170,221,2.5941879976016935
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,171,221,2.6372329994046595
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,172,203,2.4962219977169298
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,173,241,2.8766089999407995
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,174,240,2.6776139966386836
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,175,181,2.9404340020846575
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,176,198,3.0396170004678424
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,177,151,2.556571998866275
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,178,231,3.16332600050373
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,179,170,3.141707999020582
+"DC-PdM Online (Causal Monotone + Event-ACI, B10)",55,180,207,2.7626529990811832

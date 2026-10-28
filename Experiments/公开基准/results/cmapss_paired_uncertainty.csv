@@ -1,0 +1,11 @@
+treatment,comparator,delta_j_life,conditional_bootstrap_ci95_low,conditional_bootstrap_ci95_high,bootstrap_replicates,interpretation
+Ridge_Floor,Ridge_ERM_Tune,-0.090668448454708,-0.17298160436156865,-0.018908636018439798,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Ridge_Floor,Ridge_ERM_EqualBudget,0.017668783840612656,0.011404095624190735,0.02456990462961198,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Ridge_Constrained,Ridge_Floor,0.009630976973694638,-0.05612199236497914,0.061677823519828444,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Ridge_Constrained,Ridge_ERM_EqualBudget,0.027299760814307295,-0.03841677479205068,0.07968452095286628,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Linex_Floor,Linex_ERM_Tune,-0.0580531037114842,-0.12274794385184276,0.0020802382869750664,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Linex_Floor,Linex_ERM_EqualBudget,-0.008703522439979405,-0.09599232555511622,0.06984616462499234,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Linex_Constrained,Linex_Floor,0.0,0.0,0.0,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Linex_Constrained,Linex_ERM_EqualBudget,-0.008703522439979405,-0.09599232555511622,0.06984616462499234,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Linex_Constrained,Ridge_Constrained,-0.026150823895579878,-0.11844000810435913,0.07030521097033009,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval
+Ridge_UnitCP,Cycle_CP,-0.006724330581623361,-0.10385102642774058,0.1039407966340279,4000,Stratified paired unit bootstrap conditional on fixed primary fitted/calibrated rules; not a retraining or simultaneous interval

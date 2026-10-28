@@ -1,0 +1,5 @@
+policy,j_life_mean,j_life_sd,total_fails,total_units,fail_pct,clopper_pearson_ucb95_pct,avail_pct_mean,waste_cycles_mean
+Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.9193668934284525,0.15923728946910953,41,1000,4.1,5.287111505401791,95.35673716778315,9.507
+"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.9411007901126194,0.1712379453510109,47,1000,4.7,5.9545101427784655,95.45741588332726,9.303
+Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.8716677454438987,0.15167594787942162,19,1000,1.9,2.7755286045479104,94.42283777694274,11.420999999999998
+"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.8594661864427492,0.11242313566216453,14,1000,1.4,2.180013152550217,94.23321636455167,11.812000000000001

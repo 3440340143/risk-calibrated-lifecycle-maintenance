@@ -1,0 +1,81 @@
+scenario,seed,policy,j_life_rate,fail_pct,n_fails,n_units,avail_pct,waste_cycles
+S-FD001,11,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.7453162198530173,0.0,0,50,95.18226600985221,9.78
+S-FD001,11,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.7134773662551442,0.0,0,50,95.76354679802955,8.6
+S-FD001,11,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7097255063226072,0.0,0,50,95.83251231527093,8.46
+S-FD001,11,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7134773662551442,0.0,0,50,95.76354679802955,8.6
+S-FD001,22,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.0323980621719822,8.0,4,50,96.47517039922103,7.24
+S-FD001,22,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.1973935795511723,12.0,6,50,96.75754625121714,6.66
+S-FD001,22,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7549764005745947,0.0,0,50,94.89776046738072,10.48
+S-FD001,22,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7549764005745947,0.0,0,50,94.89776046738072,10.48
+S-FD001,33,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.0951553556827474,8.0,4,50,95.41642285937195,9.4
+S-FD001,33,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.0934402779196895,8.0,4,50,95.44567973473767,9.34
+S-FD001,33,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),1.251500356016682,12.0,6,50,95.87478057343476,8.46
+S-FD001,33,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",1.0934402779196895,8.0,4,50,95.44567973473767,9.34
+S-FD001,44,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.8271852869675511,2.0,1,50,95.67195874203661,8.56
+S-FD001,44,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.8384705010062494,2.0,1,50,95.46971382344019,8.96
+S-FD001,44,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7749893435635122,0.0,0,50,94.8933158054404,10.1
+S-FD001,44,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7749893435635122,0.0,0,50,94.8933158054404,10.1
+S-FD001,55,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.7497419488026423,0.0,0,50,95.06427239721323,10.06
+S-FD001,55,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.7319205843020264,0.0,0,50,95.38808752821117,9.4
+S-FD001,55,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7808119613747274,0.0,0,50,94.50495535276224,11.2
+S-FD001,55,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7808119613747274,0.0,0,50,94.50495535276224,11.2
+S-FD002,11,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.3515506616829982,16.0,8,50,97.42151363054818,5.24
+S-FD002,11,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.1754474668823944,12.0,6,50,97.32309812026375,5.44
+S-FD002,11,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7959386093130092,0.0,0,50,94.26237575041827,11.66
+S-FD002,11,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7959386093130092,0.0,0,50,94.26237575041827,11.66
+S-FD002,22,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.0035789898175218,6.0,3,50,95.1919385796545,10.02
+S-FD002,22,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.073523503415026,8.0,4,50,95.54702495201535,9.28
+S-FD002,22,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.9318015283157124,0.0,0,50,91.67946257197697,17.34
+S-FD002,22,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9318015283157124,0.0,0,50,91.67946257197697,17.34
+S-FD002,33,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.7682325721758374,0.0,0,50,94.43336183148095,11.72
+S-FD002,33,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.7777889751083343,0.0,0,50,94.26237294575853,12.08
+S-FD002,33,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7090212850606724,0.0,0,50,95.5067920585162,9.46
+S-FD002,33,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7777889751083343,0.0,0,50,94.26237294575853,12.08
+S-FD002,44,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.97458235113252,6.0,3,50,96.04291761000098,8.04
+S-FD002,44,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.9909025493421053,6.0,3,50,95.75745644256324,8.62
+S-FD002,44,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.9706412294647588,2.0,1,50,92.87331430258884,14.48
+S-FD002,44,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9706412294647588,2.0,1,50,92.87331430258884,14.48
+S-FD002,55,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.900506329113924,4.0,2,50,95.50290135396519,9.3
+S-FD002,55,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.0602622289460413,8.0,4,50,95.88974854932302,8.5
+S-FD002,55,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.9112911549179482,2.0,1,50,93.70406189555126,13.02
+S-FD002,55,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9112911549179482,2.0,1,50,93.70406189555126,13.02
+S-FD003,11,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.7393507030603805,0.0,0,50,95.29064039408867,9.56
+S-FD003,11,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.7118687647845315,0.0,0,50,95.79310344827586,8.54
+S-FD003,11,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7507512174904153,0.0,0,50,95.08374384236453,9.98
+S-FD003,11,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7507512174904153,0.0,0,50,95.08374384236453,9.98
+S-FD003,22,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.031281533804238,8.0,4,50,96.49464459591042,7.2
+S-FD003,22,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.297883064516129,14.000000000000002,7,50,96.59201557935735,7.0
+S-FD003,22,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7512047575105096,0.0,0,50,94.96592015579357,10.34
+S-FD003,22,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7512047575105096,0.0,0,50,94.96592015579357,10.34
+S-FD003,33,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.9541052848459874,4.0,2,50,94.66549639165204,10.94
+S-FD003,33,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.9591668385234071,4.0,2,50,94.5777257655549,11.12
+S-FD003,33,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),1.156500965741588,10.0,5,50,95.93329432416618,8.34
+S-FD003,33,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9591668385234071,4.0,2,50,94.5777257655549,11.12
+S-FD003,44,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.8595171069727155,0.0,0,50,93.39670340782688,13.06
+S-FD003,44,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.8163462571152401,0.0,0,50,94.15512185256345,11.56
+S-FD003,44,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7890800299177262,0.0,0,50,94.64050965719487,10.6
+S-FD003,44,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.8163462571152401,0.0,0,50,94.15512185256345,11.56
+S-FD003,55,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.7890495008319468,0.0,0,50,94.35776665685408,11.5
+S-FD003,55,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.9028705636743213,2.0,1,50,94.00451378667452,12.22
+S-FD003,55,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.9153065494873405,2.0,1,50,93.7886370326759,12.66
+S-FD003,55,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9153065494873405,2.0,1,50,93.7886370326759,12.66
+S-FD004,11,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.0591997544003275,8.0,4,50,96.17163664993603,7.78
+S-FD004,11,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.9448124745209947,6.0,3,50,96.5652986910737,6.98
+S-FD004,11,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7777546561231922,0.0,0,50,94.58714693435685,11.0
+S-FD004,11,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7777546561231922,0.0,0,50,94.58714693435685,11.0
+S-FD004,22,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),1.0785664019302303,8.0,4,50,95.46065259117083,9.46
+S-FD004,22,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",1.0024695091220646,6.0,3,50,95.21113243761997,9.98
+S-FD004,22,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.9513148542999288,4.0,2,50,94.52015355086372,11.42
+S-FD004,22,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9513148542999288,4.0,2,50,94.52015355086372,11.42
+S-FD004,33,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.7687625754527164,0.0,0,50,94.42386244894082,11.74
+S-FD004,33,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.7555444054189665,0.0,0,50,94.6613470124442,11.24
+S-FD004,33,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.7439671573044961,0.0,0,50,94.87033342832716,10.8
+S-FD004,33,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.7555444054189665,0.0,0,50,94.6613470124442,11.24
+S-FD004,44,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.8261273346403879,2.0,1,50,95.39324736686682,9.36
+S-FD004,44,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.8365901571546732,2.0,1,50,95.20622108475244,9.74
+S-FD004,44,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),0.9642705907262333,2.0,1,50,92.98159267644454,14.26
+S-FD004,44,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",0.9642705907262333,2.0,1,50,92.98159267644454,14.26
+S-FD004,55,Exchangeable B8: Ridge + Pure Unit-CP (Prop. 1 Certified),0.8331298952293764,2.0,1,50,95.07736943907156,10.18
+S-FD004,55,"Exchangeable Pure Unit-CP (Linex, No Tune Floor, Prop. 1 Certified)",0.9418367346938775,4.0,2,50,94.77756286266924,10.8
+S-FD004,55,Exchangeable B7: Cost-Tuned Margin Only (Uncal.),1.0425067553523177,4.0,2,50,93.05609284332688,14.36
+S-FD004,55,"Exchangeable B9: DC-PdM Static (Cost-Tuned + Unit-CP Floor, Prop. 1 Certified)",1.0425067553523177,4.0,2,50,93.05609284332688,14.36

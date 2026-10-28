@@ -1,0 +1,41 @@
+{
+  "passed": true,
+  "elapsed_seconds": 403.2076890000608,
+  "configurations": 144,
+  "candidate_states": 139332,
+  "scalar_path_evaluations": 4752,
+  "max_scalar_identity_error": 2.842170943040401e-14,
+  "max_service_error": 0.0,
+  "max_event_error": 0,
+  "monotonic_violations": 0,
+  "endpoint_regret_violations": 0,
+  "event_matches_ray": 125,
+  "low_matches_ray": 143,
+  "minimax_matches_ray": 128,
+  "mean_matches_ray": 144,
+  "low_matches_full": 128,
+  "finite_interval_invariance": 122,
+  "unbounded_invariance": 95,
+  "stress_interval_coverage": 144,
+  "environment": {
+    "python": "3.13.7 (tags/v3.13.7:bcee1c3, Aug 14 2025, 14:15:11) [MSC v.1944 64 bit (AMD64)]",
+    "platform": "Windows-11-10.0.26200-SP0",
+    "numpy": "2.3.3",
+    "pandas": "2.3.3"
+  },
+  "protocol": {
+    "development_stress_endpoint": "maximum Fit+Tune lifetime, empirical scenario endpoint",
+    "lifecycle_extension": "retrospective evaluation after the original primary replay",
+    "bootstraps": 4000,
+    "bootstrap_seed": 471902
+  },
+  "output_sha256": {
+    "lifecycle_candidate_states.csv": "0e71aaf5a883e4cfef218e073b0379a23f8fe1f6f4ed7d769c2a2a3d4cd811fd",
+    "lifecycle_identification.csv": "9d24894c89b887269faf2b7cc79157829568a555f9e6deb4048e49b1d6d84dbf",
+    "lifecycle_paired_bootstrap.csv": "20cee75864971ecf9047657966ca6c182bfe4d337d9ed2b2eb88a4d06b1615e1",
+    "lifecycle_per_unit.csv": "8c336d539fcc2c0644e896f9d6105ed095645e911870a0940a1152cbcf3be31a",
+    "lifecycle_pooled_by_seed.csv": "dc002e69dcac214476c1ab443692442ef7642000772785dfe009751fee3c2c15",
+    "lifecycle_primary.csv": "a5d88f72c05a1e7833419f5b1fe9e45bbcdd06103b4666899c8cca25e8fe89a0",
+    "lifecycle_scalar_paths.csv": "ae7ba37dbae4744415fffd8f9972372e10a64f2f53ecd4c4ab3782da62a58702"
+  }
+}

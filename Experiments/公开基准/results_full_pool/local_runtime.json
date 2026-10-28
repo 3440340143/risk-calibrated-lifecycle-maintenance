@@ -1,0 +1,19 @@
+{
+  "platform": "Windows-11-10.0.26200-SP0",
+  "python": "3.13.7",
+  "numpy": "2.3.3",
+  "pandas": "2.3.3",
+  "elapsed_seconds": 34.99800659995526,
+  "thread_limit": 1,
+  "primary_seed": 20261023,
+  "sensitivity_seeds": [
+    11,
+    22,
+    33,
+    44,
+    55
+  ],
+  "bootstrap_replicates": 4000,
+  "raw_directory": "C:\\Users\\yang\\Documents\\Codex\\2026-10-27\\eswa-44-pdf-eswa-d-26\\work\\dual_track_review\\Experiments\\\u516c\u5f00\u57fa\u51c6\\raw",
+  "core_sha256": "1392a8f83cc277d96d2fddfb436883b987385454acea60b357f6d87d61790300"
+}

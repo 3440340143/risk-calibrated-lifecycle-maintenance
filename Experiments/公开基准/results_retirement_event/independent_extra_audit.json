@@ -1,0 +1,9 @@
+{
+  "passed": true,
+  "finite_path_replays": 1167,
+  "hidden_suffix_and_lifetime_perturbation_replays": 1167,
+  "random_fleets": 300,
+  "complete_enumeration_matches": 300,
+  "bootstrap_replicates": 4000,
+  "bootstrap_seed": 471902
+}

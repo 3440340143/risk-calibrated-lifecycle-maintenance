@@ -1,0 +1,10 @@
+protocol,comparison,metric,n,mean_difference,ci95_low,ci95_high,p_t
+Frozen Source Transfer (Trained on neg_dips),Running-max OFF minus ON,dc_pdm_rmse_true_neg_mask,5,-0.14782087236289349,-0.24273524604544758,-0.05290649868033939,0.012407519034095075
+Frozen Source Transfer (Trained on neg_dips),Running-max OFF minus ON,j_life_dc_pdm,5,-0.060107977969471225,-0.16469033960923274,0.04447438367029028,0.1857786500191817
+Frozen Source Transfer (Trained on neg_dips),Running-max OFF minus ON,fail_pct_dc_pdm,5,-1.6,-4.320349522633029,1.120349522633028,0.17780780835622126
+Per-Mode Refit on non_monotone_true,Running-max OFF minus ON,dc_pdm_rmse_true_neg_mask,5,-0.3628131571579935,-0.553353655707073,-0.17227265860891405,0.006142186575113143
+Per-Mode Refit on non_monotone_true,Running-max OFF minus ON,j_life_dc_pdm,5,-0.007307816650226728,-0.01651374364048637,0.001898110340032913,0.09224175833656152
+Per-Mode Refit on non_monotone_true,Running-max OFF minus ON,fail_pct_dc_pdm,5,0.0,0.0,0.0,
+Fixed ON Head Coefficients (Test-Time Clamping Toggle Only),Test-Time Running-max OFF minus ON (Fixed Head),dc_pdm_rmse_true_neg_mask,5,-0.44131880864552286,-0.6601483146278008,-0.22248930266324496,0.004994323790620404
+Fixed ON Head Coefficients (Test-Time Clamping Toggle Only),Test-Time Running-max OFF minus ON (Fixed Head),j_life_dc_pdm,5,0.00010437398752192185,-0.00018541465924329416,0.0003941626342871379,0.373900966300059
+Fixed ON Head Coefficients (Test-Time Clamping Toggle Only),Test-Time Running-max OFF minus ON (Fixed Head),fail_pct_dc_pdm,5,0.0,0.0,0.0,

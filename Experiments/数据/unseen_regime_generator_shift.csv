@@ -1,0 +1,6 @@
+seed,known_regime_centers_changed,known_regime_gains_changed,known_regime_offsets_changed,sensor_loading1_magnitudes_changed,sensor_loading2_magnitudes_changed,test_unit_lifetimes_changed,isolated_mode_test_lifetimes_changed,test_units
+11,0,84,84,14,14,50,0,50
+22,0,84,84,14,14,50,0,50
+33,0,84,84,14,14,49,0,50
+44,0,84,84,14,14,50,0,50
+55,0,84,84,14,14,50,0,50

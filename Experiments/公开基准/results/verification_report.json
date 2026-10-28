@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "primary_unique_test_engines": 286,
+  "distinct_source_engines": 709,
+  "policy_replay_records_checked": 18876,
+  "event_rule_mismatches": 0,
+  "forecast_to_alarm_mismatches": 0,
+  "max_cost_error": 0.0,
+  "max_summary_rate_error": 0.0,
+  "max_score_recomputation_error": 0.0,
+  "max_prefix_feature_error": 0.0,
+  "max_prefix_forecast_error": 4.263256414560601e-14,
+  "future_measurements_perturbed": true,
+  "inference_without_failure_or_rul_labels": true,
+  "raw_sha256_verified": true,
+  "original_core_sha256_verified": true
+}

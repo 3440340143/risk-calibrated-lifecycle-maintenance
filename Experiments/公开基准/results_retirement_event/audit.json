@@ -1,0 +1,12 @@
+{
+  "passed": true,
+  "configurations": 144,
+  "test_policy_records": 41184,
+  "max_oracle_objective_error": 0.0,
+  "max_oracle_margin_error": 0.0,
+  "max_observed_service_error": 0.0,
+  "event_mismatches": 0,
+  "sentinel_envelopes_identical": true,
+  "score_map": "same frozen map used in historical operation and selection",
+  "cost": "event cost only; unused natural life is not an observed label"
+}

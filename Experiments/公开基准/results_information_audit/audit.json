@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "configurations": 144,
+  "zero_gap_configurations": 130,
+  "sufficient_condition_configurations": 129,
+  "sufficient_condition_violations": 0,
+  "high_censoring_configurations": 53,
+  "high_censoring_zero_gap": 39,
+  "maximum_gap": 0.022823041127965404,
+  "maximum_relative_gap_pct": 5.089538171536285,
+  "max_existing_replay_error": 0.0,
+  "threshold_curve_cases": 50,
+  "curve_monotonicity_passed": true,
+  "interpretation": "Empirical optimization on Cal. Complete latent lifetimes are used only by the reference oracle; repeated configurations reuse source engines."
+}

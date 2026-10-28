@@ -1,0 +1,5 @@
+architecture,seed,unit_id,max_prefix_forecast_abs_difference
+Raw Ridge Cycle-CP,11,131,4.263256414560601e-14
+Monotone Ridge Unit-CP,11,131,7.105427357601002e-14
+DC Static,11,131,5.684341886080802e-14
+DC Online,11,131,5.684341886080802e-14
